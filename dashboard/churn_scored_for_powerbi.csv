@@ -1,0 +1,1001 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,Contract,InternetService,PaymentMethod,PaperlessBilling,TechSupport,OnlineSecurity,StreamingTV,NumSupportCalls,MonthlyCharges,TotalCharges,Churn,ChurnProbability,PredictedChurn,ActualChurn,RiskSegment
+CUST101344,Male,0,Yes,No,10,One year,No,Electronic check,No,Yes,Yes,No internet service,4,18.0,92.14,No,18.91,No,No,Low Risk
+CUST103133,Male,0,Yes,No,72,Two year,DSL,Credit card (automatic),No,Yes,No,No,1,46.33,3326.87,No,0.06,No,No,Low Risk
+CUST104318,Female,1,No,No,19,Month-to-month,No,Credit card (automatic),No,Yes,No,No,1,25.73,532.0,No,18.11,No,No,Low Risk
+CUST102088,Female,0,Yes,No,72,Month-to-month,No,Bank transfer (automatic),Yes,No internet service,No internet service,No,1,35.15,2459.75,No,0.72,No,No,Low Risk
+CUST104382,Male,0,Yes,No,12,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,No,0,73.17,819.08,Yes,22.88,No,Yes,Low Risk
+CUST100160,Male,0,Yes,Yes,13,Month-to-month,Fiber optic,Electronic check,Yes,Yes,No internet service,Yes,3,78.17,1003.76,Yes,87.84,Yes,Yes,High Risk
+CUST103999,Female,0,No,No,67,Month-to-month,No,Credit card (automatic),No,No,Yes,Yes,4,38.26,2552.86,No,3.83,No,No,Low Risk
+CUST104173,Male,0,No,No,29,Two year,DSL,Electronic check,Yes,No,Yes,Yes,0,50.39,1436.12,No,3.72,No,No,Low Risk
+CUST102052,Female,0,No,No,28,Month-to-month,Fiber optic,Credit card (automatic),Yes,No,No,No,0,78.85,2261.53,No,38.32,No,No,Medium Risk
+CUST104886,Male,0,No,No,55,Month-to-month,No,Bank transfer (automatic),No,No,No,No internet service,0,18.0,996.35,No,1.25,No,No,Low Risk
+CUST103027,Male,0,Yes,No,18,Month-to-month,DSL,Electronic check,No,No,No,No,2,52.53,963.78,Yes,73.0,Yes,Yes,High Risk
+CUST103120,Female,0,Yes,No,47,Month-to-month,No,Bank transfer (automatic),Yes,Yes,No,No,1,18.0,862.45,No,1.09,No,No,Low Risk
+CUST101099,Male,0,No,No,72,Month-to-month,DSL,Credit card (automatic),No,No,No internet service,No internet service,3,56.81,4060.94,No,4.93,No,No,Low Risk
+CUST101940,Male,1,Yes,No,15,Month-to-month,DSL,Electronic check,No,No internet service,No,No internet service,4,64.85,1042.32,Yes,94.34,Yes,Yes,High Risk
+CUST102781,Female,0,Yes,No,22,One year,DSL,Mailed check,Yes,No internet service,Yes,No,1,49.87,1133.45,No,4.47,No,No,Low Risk
+CUST104474,Male,0,Yes,Yes,33,Month-to-month,Fiber optic,Mailed check,No,No,No,No,1,95.5,3214.24,Yes,55.98,Yes,Yes,Medium Risk
+CUST103344,Female,1,Yes,Yes,22,Two year,Fiber optic,Credit card (automatic),No,No,No,Yes,3,77.46,1748.4,No,18.95,No,No,Low Risk
+CUST104767,Male,0,Yes,No,12,Month-to-month,No,Credit card (automatic),No,No,No,No internet service,1,23.28,274.75,No,18.5,No,No,Low Risk
+CUST100174,Female,1,No,No,2,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,No internet service,No,1,74.39,221.21,Yes,86.87,Yes,Yes,High Risk
+CUST104242,Female,0,Yes,No,26,Two year,Fiber optic,Bank transfer (automatic),Yes,No,Yes,Yes,1,80.33,2077.91,No,3.71,No,No,Low Risk
+CUST100862,Female,0,Yes,No,8,Month-to-month,DSL,Bank transfer (automatic),No,No,Yes,No internet service,0,66.84,532.54,Yes,30.17,No,Yes,Medium Risk
+CUST101190,Male,0,Yes,No,13,Month-to-month,Fiber optic,Credit card (automatic),Yes,No internet service,No,Yes,0,89.04,1131.19,No,57.86,Yes,No,Medium Risk
+CUST101438,Female,0,Yes,No,41,One year,Fiber optic,Electronic check,Yes,No,No,No,1,74.16,3119.01,Yes,18.73,No,Yes,Low Risk
+CUST104379,Male,0,No,Yes,50,Month-to-month,No,Credit card (automatic),No,No,Yes,No internet service,0,18.0,838.27,No,0.82,No,No,Low Risk
+CUST100593,Female,0,No,Yes,6,Two year,No,Electronic check,Yes,Yes,Yes,No,1,18.0,38.76,No,4.13,No,No,Low Risk
+CUST104447,Male,0,Yes,No,14,Month-to-month,DSL,Electronic check,No,No,No,No,2,38.22,610.96,Yes,68.51,Yes,Yes,High Risk
+CUST101626,Male,0,Yes,No,9,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes,No,No,1,85.36,743.62,Yes,60.14,Yes,Yes,High Risk
+CUST104004,Female,0,No,Yes,72,Month-to-month,Fiber optic,Mailed check,Yes,No,No internet service,No,1,67.78,4873.73,No,6.05,No,No,Low Risk
+CUST103760,Male,0,Yes,No,57,Month-to-month,Fiber optic,Credit card (automatic),Yes,No,No,Yes,2,68.83,3868.7,No,10.32,No,No,Low Risk
+CUST103343,Female,0,Yes,No,68,Month-to-month,DSL,Credit card (automatic),Yes,Yes,No,Yes,3,44.7,3110.48,Yes,1.54,No,Yes,Low Risk
+CUST103211,Female,1,Yes,No,72,One year,DSL,Bank transfer (automatic),Yes,No,No,No,3,53.92,3888.59,No,0.78,No,No,Low Risk
+CUST102478,Female,0,No,No,25,Two year,Fiber optic,Electronic check,Yes,Yes,No,Yes,1,77.85,2036.62,No,21.58,No,No,Low Risk
+CUST100921,Male,0,Yes,Yes,43,Month-to-month,No,Mailed check,Yes,No,No,No,3,47.19,2003.06,Yes,16.45,No,Yes,Low Risk
+CUST102532,Female,0,No,Yes,11,One year,Fiber optic,Electronic check,Yes,Yes,No,No,0,68.75,727.31,Yes,33.41,No,Yes,Medium Risk
+CUST103787,Male,0,Yes,No,14,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes,Yes,Yes,3,81.08,1114.75,Yes,57.24,Yes,Yes,Medium Risk
+CUST102307,Female,1,No,No,51,Two year,DSL,Credit card (automatic),Yes,No internet service,Yes,Yes,1,72.46,3598.96,No,1.03,No,No,Low Risk
+CUST103437,Male,0,Yes,Yes,43,One year,DSL,Credit card (automatic),Yes,No internet service,No,No,2,58.25,2500.77,No,1.68,No,No,Low Risk
+CUST100145,Male,0,No,No,16,Two year,Fiber optic,Electronic check,No,No,Yes,Yes,2,66.83,1001.23,No,36.19,No,No,Medium Risk
+CUST104579,Female,0,No,No,47,Month-to-month,Fiber optic,Mailed check,No,Yes,No internet service,No internet service,2,106.21,5010.77,No,58.33,Yes,No,Medium Risk
+CUST103107,Female,1,No,No,21,Two year,DSL,Bank transfer (automatic),Yes,No,No,Yes,2,69.18,1414.43,No,11.71,No,No,Low Risk
+CUST101316,Female,0,No,Yes,58,Month-to-month,DSL,Credit card (automatic),No,No,No internet service,No,1,45.63,2725.72,No,2.9,No,No,Low Risk
+CUST103009,Male,0,Yes,Yes,15,One year,DSL,Electronic check,Yes,Yes,Yes,No,5,46.09,791.92,Yes,27.04,No,Yes,Low Risk
+CUST100942,Female,0,No,No,72,Month-to-month,Fiber optic,Electronic check,Yes,No,No,Yes,0,72.71,5280.82,Yes,15.84,No,Yes,Low Risk
+CUST102804,Male,0,Yes,No,3,Month-to-month,Fiber optic,Electronic check,No,No,No,No,0,74.09,167.36,Yes,89.97,Yes,Yes,High Risk
+CUST103336,Female,1,No,No,63,One year,DSL,Electronic check,No,No,No,No,0,65.86,4080.76,Yes,5.2,No,Yes,Low Risk
+CUST100755,Female,0,No,Yes,9,Month-to-month,DSL,Electronic check,Yes,No,No,Yes,2,59.32,541.3,Yes,85.47,Yes,Yes,High Risk
+CUST100633,Male,0,Yes,No,19,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,No,1,88.08,1739.45,Yes,80.96,Yes,Yes,High Risk
+CUST101114,Male,0,Yes,No,9,Two year,No,Mailed check,Yes,No,Yes,No,1,18.0,95.03,No,1.84,No,No,Low Risk
+CUST104667,Female,0,No,No,13,One year,No,Mailed check,No,No internet service,No,No,2,34.93,482.66,No,19.11,No,No,Low Risk
+CUST100660,Female,0,No,No,35,Two year,DSL,Electronic check,No,Yes,No internet service,No,1,50.49,1718.12,No,4.47,No,No,Low Risk
+CUST103472,Female,0,Yes,No,72,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,Yes,1,72.74,5152.62,No,2.63,No,No,Low Risk
+CUST103385,Female,0,No,Yes,18,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes,No,0,63.47,1223.1,No,52.21,Yes,No,Medium Risk
+CUST103963,Male,0,Yes,No,20,Two year,Fiber optic,Bank transfer (automatic),No,No,No,Yes,0,56.42,1153.88,No,3.02,No,No,Low Risk
+CUST100047,Male,0,Yes,No,37,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,No internet service,No internet service,0,89.98,3324.88,No,28.07,No,No,Low Risk
+CUST102337,Female,0,Yes,No,10,Two year,Fiber optic,Credit card (automatic),Yes,No,No,No internet service,0,75.27,739.17,No,8.66,No,No,Low Risk
+CUST101615,Male,0,Yes,No,34,Two year,DSL,Electronic check,Yes,Yes,No,No,0,60.81,1971.15,No,2.53,No,No,Low Risk
+CUST102165,Male,0,No,No,11,Month-to-month,No,Electronic check,Yes,No,No,Yes,2,22.2,163.3,Yes,68.79,Yes,Yes,High Risk
+CUST104744,Female,0,Yes,No,50,Month-to-month,DSL,Bank transfer (automatic),No,Yes,No internet service,No,0,48.94,2440.85,No,1.79,No,No,Low Risk
+CUST100770,Male,0,Yes,Yes,72,Month-to-month,No,Electronic check,Yes,Yes,Yes,Yes,0,18.37,1252.62,No,0.37,No,No,Low Risk
+CUST104923,Female,0,Yes,No,47,Month-to-month,Fiber optic,Mailed check,No,No internet service,No,No,1,79.51,3758.33,No,30.85,No,No,Medium Risk
+CUST101318,Female,0,No,No,36,Month-to-month,Fiber optic,Mailed check,No,Yes,Yes,Yes,1,72.1,2654.68,No,25.93,No,No,Low Risk
+CUST101590,Female,0,Yes,No,11,Month-to-month,Fiber optic,Electronic check,Yes,No internet service,Yes,Yes,1,73.9,764.64,Yes,81.98,Yes,Yes,High Risk
+CUST102922,Male,1,No,Yes,52,Two year,Fiber optic,Electronic check,No,No,No,No internet service,3,76.15,3952.24,Yes,20.76,No,Yes,Low Risk
+CUST103453,Female,0,Yes,No,22,Month-to-month,DSL,Electronic check,No,No,Yes,No,3,52.41,1216.33,Yes,66.86,Yes,Yes,High Risk
+CUST103032,Male,0,No,No,45,Two year,Fiber optic,Electronic check,No,No,No,No,1,47.12,2090.45,No,5.33,No,No,Low Risk
+CUST102017,Female,1,No,No,40,Two year,No,Mailed check,Yes,Yes,Yes,No,2,35.47,1407.89,No,1.01,No,No,Low Risk
+CUST100062,Male,0,Yes,No,15,Month-to-month,DSL,Bank transfer (automatic),No,No,No,No,1,74.24,1108.2,Yes,45.77,No,Yes,Medium Risk
+CUST101170,Female,0,No,Yes,72,Month-to-month,DSL,Mailed check,Yes,Yes,No,No,2,52.25,3779.4,No,2.11,No,No,Low Risk
+CUST100492,Male,0,Yes,Yes,3,Month-to-month,DSL,Electronic check,Yes,Yes,No internet service,No internet service,3,50.24,283.32,Yes,78.05,Yes,Yes,High Risk
+CUST101610,Male,0,No,No,19,One year,Fiber optic,Bank transfer (automatic),Yes,No,No internet service,Yes,2,74.91,1407.81,No,26.05,No,No,Low Risk
+CUST100776,Male,1,No,No,24,Month-to-month,Fiber optic,Electronic check,Yes,No,No,Yes,0,90.02,2203.09,Yes,89.49,Yes,Yes,High Risk
+CUST102555,Female,0,Yes,No,14,One year,Fiber optic,Credit card (automatic),Yes,No,No internet service,No internet service,1,83.12,1200.63,No,23.29,No,No,Low Risk
+CUST101002,Male,1,Yes,Yes,22,Month-to-month,No,Bank transfer (automatic),Yes,No,No internet service,Yes,0,23.38,607.98,No,7.59,No,No,Low Risk
+CUST103034,Female,0,No,Yes,29,One year,No,Credit card (automatic),Yes,Yes,No,Yes,2,19.43,494.96,No,1.11,No,No,Low Risk
+CUST104043,Female,0,No,No,64,Month-to-month,No,Mailed check,No,Yes,No,Yes,0,18.77,1204.77,No,0.85,No,No,Low Risk
+CUST104956,Female,0,Yes,No,37,Month-to-month,Fiber optic,Electronic check,No,No,No,Yes,0,81.33,3013.92,No,61.67,Yes,No,High Risk
+CUST102132,Female,0,Yes,Yes,18,Month-to-month,DSL,Electronic check,No,No,No internet service,No internet service,3,59.84,1034.43,No,80.41,Yes,No,High Risk
+CUST100911,Male,0,No,Yes,46,One year,No,Bank transfer (automatic),No,No,Yes,Yes,1,42.13,2020.48,No,0.64,No,No,Low Risk
+CUST100676,Female,0,Yes,No,10,Two year,No,Electronic check,No,No,No,Yes,2,18.0,179.81,No,13.02,No,No,Low Risk
+CUST101163,Female,0,No,No,33,Month-to-month,No,Bank transfer (automatic),Yes,Yes,No,No,4,18.0,591.43,No,11.33,No,No,Low Risk
+CUST100422,Female,0,Yes,No,19,Month-to-month,No,Electronic check,No,Yes,Yes,No,2,20.02,407.38,Yes,27.0,No,Yes,Low Risk
+CUST101166,Male,0,No,No,18,Month-to-month,Fiber optic,Mailed check,Yes,No internet service,No,No internet service,0,77.53,1344.22,No,64.92,Yes,No,High Risk
+CUST100048,Female,0,No,No,25,Two year,No,Credit card (automatic),Yes,No,No internet service,No internet service,1,19.28,403.25,No,1.0,No,No,Low Risk
+CUST102670,Male,0,No,Yes,72,Month-to-month,DSL,Electronic check,Yes,No,No,No,1,80.31,5766.19,No,14.91,No,No,Low Risk
+CUST101669,Female,0,Yes,No,31,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes,No,1,69.52,2128.33,Yes,44.73,No,Yes,Medium Risk
+CUST101924,Female,0,No,No,72,Month-to-month,Fiber optic,Mailed check,Yes,No internet service,No,Yes,0,53.24,3817.41,No,3.3,No,No,Low Risk
+CUST104787,Male,0,Yes,Yes,37,Month-to-month,No,Mailed check,No,No,No,Yes,1,30.94,1102.39,No,8.05,No,No,Low Risk
+CUST100769,Male,0,No,No,32,Month-to-month,DSL,Bank transfer (automatic),Yes,No,No,Yes,2,59.37,1968.21,Yes,26.18,No,Yes,Low Risk
+CUST102219,Male,1,No,No,4,Month-to-month,DSL,Bank transfer (automatic),No,Yes,Yes,Yes,1,52.12,229.51,No,39.44,No,No,Medium Risk
+CUST103097,Male,0,No,No,30,Month-to-month,No,Mailed check,No,Yes,No,Yes,2,18.0,535.27,No,12.72,No,No,Low Risk
+CUST102000,Male,0,No,No,72,Month-to-month,DSL,Credit card (automatic),No,No,No,No,1,58.48,4256.74,No,2.42,No,No,Low Risk
+CUST101588,Male,1,Yes,Yes,69,Two year,Fiber optic,Credit card (automatic),No,Yes,No,No,1,57.37,3921.11,No,0.18,No,No,Low Risk
+CUST104868,Male,0,Yes,No,37,Two year,DSL,Credit card (automatic),Yes,No,No internet service,Yes,2,50.2,1825.81,No,1.16,No,No,Low Risk
+CUST101010,Male,0,Yes,No,42,One year,DSL,Mailed check,Yes,No,No,Yes,3,54.46,2283.6,No,5.4,No,No,Low Risk
+CUST102003,Female,0,No,No,16,Month-to-month,DSL,Electronic check,No,No,No internet service,No,0,52.29,860.39,Yes,67.65,Yes,Yes,High Risk
+CUST100989,Female,0,Yes,No,38,Month-to-month,DSL,Credit card (automatic),No,No,Yes,Yes,1,77.25,2928.24,No,13.64,No,No,Low Risk
+CUST103684,Female,0,No,Yes,25,One year,DSL,Electronic check,Yes,Yes,Yes,No,0,42.75,1027.8,No,3.6,No,No,Low Risk
+CUST102402,Male,0,Yes,Yes,63,Month-to-month,DSL,Electronic check,Yes,No,No,No,0,63.92,4057.04,No,7.2,No,No,Low Risk
+CUST102676,Male,1,No,No,24,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No internet service,2,83.62,2056.84,Yes,91.56,Yes,Yes,High Risk
+CUST103523,Female,0,No,No,47,Two year,DSL,Mailed check,Yes,No,No,Yes,0,73.13,3379.37,No,1.71,No,No,Low Risk
+CUST101319,Male,0,Yes,Yes,27,One year,Fiber optic,Bank transfer (automatic),No,No internet service,No,Yes,0,75.74,2051.97,No,5.85,No,No,Low Risk
+CUST102292,Male,0,Yes,No,54,Two year,Fiber optic,Credit card (automatic),Yes,No internet service,No,No,1,74.01,3951.82,No,0.94,No,No,Low Risk
+CUST102208,Female,0,Yes,Yes,55,Two year,Fiber optic,Credit card (automatic),Yes,Yes,No internet service,No internet service,2,74.34,4158.38,No,0.63,No,No,Low Risk
+CUST101822,Female,0,No,No,26,One year,No,Credit card (automatic),Yes,No,Yes,No,2,23.55,628.38,No,2.05,No,No,Low Risk
+CUST101053,Male,0,Yes,Yes,27,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes,No,No internet service,2,55.87,1462.35,No,18.46,No,No,Low Risk
+CUST100333,Male,0,No,No,18,One year,Fiber optic,Credit card (automatic),Yes,No,No internet service,Yes,1,76.81,1352.77,No,21.52,No,No,Low Risk
+CUST101564,Male,1,No,No,28,Month-to-month,Fiber optic,Mailed check,No,No,No,No,2,76.52,2151.91,Yes,80.04,Yes,Yes,High Risk
+CUST103353,Male,1,No,No,41,One year,Fiber optic,Bank transfer (automatic),No,No internet service,No,No,0,69.18,2825.61,No,5.97,No,No,Low Risk
+CUST104231,Male,0,Yes,Yes,29,Month-to-month,Fiber optic,Electronic check,No,Yes,No,No,3,110.1,3241.73,Yes,90.33,Yes,Yes,High Risk
+CUST103904,Male,0,No,No,26,Two year,Fiber optic,Credit card (automatic),No,No,Yes,Yes,0,77.81,2026.3,No,3.85,No,No,Low Risk
+CUST102561,Female,1,Yes,Yes,15,Month-to-month,No,Mailed check,No,No,Yes,Yes,2,18.0,349.03,No,24.86,No,No,Low Risk
+CUST104687,Male,0,No,No,18,One year,No,Electronic check,No,No,No,No,3,18.0,270.42,No,28.27,No,No,Low Risk
+CUST102309,Male,1,No,No,15,Month-to-month,No,Electronic check,No,No,No internet service,No internet service,1,29.95,505.88,Yes,72.82,Yes,Yes,High Risk
+CUST101191,Male,0,No,Yes,46,Month-to-month,No,Credit card (automatic),No,Yes,No,Yes,1,26.4,1175.9,No,1.98,No,No,Low Risk
+CUST103847,Female,1,Yes,Yes,0,Month-to-month,Fiber optic,Electronic check,Yes,No,No internet service,No,1,83.15,141.17,Yes,95.81,Yes,Yes,High Risk
+CUST101579,Male,0,Yes,No,21,Month-to-month,Fiber optic,Credit card (automatic),No,Yes,Yes,No,2,71.04,1457.59,No,30.34,No,No,Medium Risk
+CUST103914,Male,0,Yes,No,22,One year,No,Credit card (automatic),Yes,No,No internet service,No internet service,2,25.89,683.06,No,3.02,No,No,Low Risk
+CUST100016,Female,0,Yes,No,46,Month-to-month,DSL,Electronic check,No,No,No,No,1,66.48,3083.72,No,35.93,No,No,Medium Risk
+CUST101526,Male,0,No,No,6,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No,No internet service,No internet service,3,85.68,500.1,Yes,89.69,Yes,Yes,High Risk
+CUST101678,Female,0,No,Yes,27,One year,Fiber optic,Credit card (automatic),Yes,Yes,No,No,1,88.37,2404.01,No,9.85,No,No,Low Risk
+CUST104131,Male,0,No,No,7,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No,Yes,Yes,3,76.37,555.72,Yes,78.94,Yes,Yes,High Risk
+CUST102013,Female,0,No,Yes,6,Two year,DSL,Credit card (automatic),No,Yes,Yes,Yes,2,58.82,397.37,No,4.72,No,No,Low Risk
+CUST103673,Female,0,No,No,20,Month-to-month,Fiber optic,Credit card (automatic),No,No,No internet service,No,2,90.46,1875.43,No,79.17,Yes,No,High Risk
+CUST103549,Female,1,Yes,No,9,One year,Fiber optic,Mailed check,No,No,Yes,No internet service,1,80.71,675.55,Yes,42.95,No,Yes,Medium Risk
+CUST103431,Female,0,Yes,No,13,Month-to-month,DSL,Mailed check,Yes,Yes,No,No,1,48.64,628.68,No,28.86,No,No,Low Risk
+CUST103306,Female,0,Yes,Yes,24,Month-to-month,No,Electronic check,Yes,No,Yes,Yes,2,18.0,493.54,No,22.42,No,No,Low Risk
+CUST100420,Female,0,No,No,8,One year,Fiber optic,Electronic check,Yes,No internet service,No internet service,No,1,85.48,685.59,No,77.45,Yes,No,High Risk
+CUST104752,Male,0,No,No,28,Month-to-month,No,Mailed check,Yes,Yes,No internet service,No,1,18.31,551.84,No,8.64,No,No,Low Risk
+CUST100229,Male,0,No,No,37,One year,Fiber optic,Electronic check,Yes,Yes,No,Yes,0,84.07,3115.65,No,18.22,No,No,Low Risk
+CUST103521,Male,1,Yes,No,21,Two year,No,Credit card (automatic),Yes,Yes,Yes,No,2,18.0,313.22,No,0.66,No,No,Low Risk
+CUST102929,Female,0,No,Yes,8,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,No,0,61.38,453.5,No,38.71,No,No,Medium Risk
+CUST104254,Female,0,Yes,No,36,Month-to-month,Fiber optic,Credit card (automatic),Yes,No internet service,Yes,No internet service,4,95.72,3463.52,Yes,58.24,Yes,Yes,Medium Risk
+CUST104684,Female,0,Yes,Yes,14,One year,No,Electronic check,Yes,No internet service,Yes,No,2,21.78,376.64,No,9.9,No,No,Low Risk
+CUST104577,Male,0,No,No,14,Two year,DSL,Bank transfer (automatic),Yes,No,No,Yes,1,57.57,845.36,Yes,5.42,No,Yes,Low Risk
+CUST103826,Female,1,Yes,Yes,15,Month-to-month,Fiber optic,Electronic check,Yes,Yes,No internet service,No,2,53.71,706.65,Yes,75.76,Yes,Yes,High Risk
+CUST101476,Male,0,Yes,No,47,Month-to-month,DSL,Mailed check,Yes,No,No,No internet service,1,58.56,2825.04,No,10.6,No,No,Low Risk
+CUST104281,Female,0,No,No,67,One year,No,Bank transfer (automatic),Yes,No internet service,Yes,Yes,1,27.07,1803.03,No,0.12,No,No,Low Risk
+CUST100586,Female,0,No,No,38,Month-to-month,DSL,Mailed check,Yes,No,No,Yes,2,57.11,2228.13,No,31.01,No,No,Medium Risk
+CUST103930,Female,0,Yes,Yes,17,One year,DSL,Mailed check,No,No,Yes,No,1,66.3,1105.25,No,8.81,No,No,Low Risk
+CUST104932,Male,0,No,No,72,Two year,DSL,Bank transfer (automatic),No,No internet service,No,No,2,40.69,2896.53,No,0.17,No,No,Low Risk
+CUST103818,Male,0,Yes,Yes,13,Month-to-month,No,Credit card (automatic),Yes,Yes,No,No internet service,2,37.44,497.47,No,16.06,No,No,Low Risk
+CUST103226,Male,0,Yes,No,67,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,No,No,2,75.49,5086.85,No,8.29,No,No,Low Risk
+CUST101754,Male,0,No,No,27,Month-to-month,Fiber optic,Mailed check,Yes,No internet service,Yes,Yes,0,73.4,2056.78,No,36.93,No,No,Medium Risk
+CUST101186,Female,1,Yes,No,4,Month-to-month,Fiber optic,Credit card (automatic),Yes,No,No internet service,No internet service,0,87.99,378.93,Yes,78.43,Yes,Yes,High Risk
+CUST100276,Male,0,Yes,Yes,22,One year,DSL,Credit card (automatic),Yes,No,No,Yes,3,53.89,1210.7,No,7.35,No,No,Low Risk
+CUST101124,Female,0,Yes,No,8,Month-to-month,Fiber optic,Electronic check,Yes,Yes,No,No,5,77.29,571.94,Yes,96.6,Yes,Yes,High Risk
+CUST103543,Female,0,No,No,25,Month-to-month,DSL,Electronic check,Yes,No,No,Yes,1,55.7,1393.73,Yes,63.54,Yes,Yes,High Risk
+CUST104937,Male,0,Yes,No,21,One year,No,Mailed check,No,No internet service,No,Yes,1,18.0,392.39,No,3.54,No,No,Low Risk
+CUST100688,Male,0,No,No,52,Month-to-month,Fiber optic,Electronic check,Yes,Yes,Yes,No,0,87.33,4592.24,No,25.36,No,No,Low Risk
+CUST104176,Male,0,Yes,No,27,Month-to-month,No,Electronic check,Yes,No,No internet service,Yes,0,28.49,799.12,No,23.69,No,No,Low Risk
+CUST103595,Male,0,Yes,No,7,One year,No,Electronic check,No,Yes,Yes,No,2,33.36,127.68,No,17.08,No,No,Low Risk
+CUST100904,Male,0,Yes,Yes,27,Month-to-month,DSL,Electronic check,Yes,Yes,No,No internet service,0,54.49,1465.39,No,22.23,No,No,Low Risk
+CUST100228,Male,0,No,No,20,Month-to-month,DSL,Bank transfer (automatic),Yes,Yes,Yes,No,4,61.17,1290.3,No,37.63,No,No,Medium Risk
+CUST104633,Male,0,Yes,Yes,19,Month-to-month,No,Credit card (automatic),Yes,No,No internet service,Yes,1,23.6,350.39,No,8.91,No,No,Low Risk
+CUST101700,Male,1,No,No,71,Two year,Fiber optic,Electronic check,No,No,No,No,1,77.12,5477.91,No,4.89,No,No,Low Risk
+CUST104349,Male,0,No,No,32,Month-to-month,No,Bank transfer (automatic),Yes,No,Yes,No,3,36.18,1118.34,No,14.2,No,No,Low Risk
+CUST103113,Female,0,Yes,No,5,One year,Fiber optic,Mailed check,No,No,No,No,1,78.38,335.2,Yes,48.45,No,Yes,Medium Risk
+CUST104020,Female,0,No,Yes,37,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No,No,Yes,0,80.5,2920.41,No,22.37,No,No,Low Risk
+CUST100063,Male,0,No,No,60,One year,No,Bank transfer (automatic),Yes,No,No,No,1,19.06,1205.66,No,0.22,No,No,Low Risk
+CUST103827,Male,0,Yes,Yes,62,One year,Fiber optic,Mailed check,Yes,No,No,Yes,3,78.68,4915.45,No,4.37,No,No,Low Risk
+CUST102949,Female,0,No,No,4,One year,Fiber optic,Mailed check,Yes,No internet service,No,Yes,1,76.08,253.12,No,53.92,Yes,No,Medium Risk
+CUST103944,Male,0,No,Yes,37,Month-to-month,Fiber optic,Mailed check,Yes,Yes,Yes,Yes,1,53.1,1913.31,No,9.79,No,No,Low Risk
+CUST102094,Male,0,Yes,No,15,Two year,DSL,Electronic check,No,No internet service,No,Yes,1,25.15,266.68,No,7.23,No,No,Low Risk
+CUST103731,Female,1,No,Yes,57,Two year,No,Electronic check,No,Yes,No,Yes,3,23.18,1364.67,No,1.44,No,No,Low Risk
+CUST101619,Male,0,No,Yes,54,Month-to-month,Fiber optic,Mailed check,No,Yes,No internet service,No,2,72.51,3841.33,Yes,17.65,No,Yes,Low Risk
+CUST103492,Female,0,No,No,23,One year,DSL,Mailed check,No,No,Yes,No internet service,3,52.87,1294.3,Yes,15.67,No,Yes,Low Risk
+CUST100716,Male,0,No,No,38,Two year,Fiber optic,Credit card (automatic),No,No,No,No internet service,4,43.61,1611.65,No,4.8,No,No,Low Risk
+CUST103857,Male,0,No,No,39,Month-to-month,Fiber optic,Electronic check,Yes,No,No,No internet service,0,65.34,2618.31,Yes,49.73,No,Yes,Medium Risk
+CUST103975,Male,1,Yes,Yes,8,Month-to-month,Fiber optic,Electronic check,Yes,No internet service,No internet service,No,2,54.88,408.17,Yes,89.06,Yes,Yes,High Risk
+CUST101553,Female,0,Yes,No,12,Two year,DSL,Electronic check,Yes,No internet service,No internet service,No,0,66.24,635.39,No,17.28,No,No,Low Risk
+CUST103269,Female,1,No,Yes,46,Month-to-month,Fiber optic,Mailed check,No,No,No,Yes,0,69.32,3146.93,No,28.24,No,No,Low Risk
+CUST102156,Female,0,No,No,47,One year,Fiber optic,Credit card (automatic),Yes,No,No internet service,No,7,92.18,4296.3,Yes,48.64,No,Yes,Medium Risk
+CUST101187,Male,0,Yes,No,53,Month-to-month,Fiber optic,Mailed check,No,No internet service,No,No,1,75.36,4003.55,No,20.54,No,No,Low Risk
+CUST104065,Male,0,Yes,No,4,Two year,Fiber optic,Bank transfer (automatic),No,No,No,No,1,69.84,245.6,Yes,15.55,No,Yes,Low Risk
+CUST103913,Male,0,Yes,No,60,One year,Fiber optic,Bank transfer (automatic),Yes,Yes,No,No,2,72.06,4356.06,No,1.09,No,No,Low Risk
+CUST101695,Female,0,Yes,Yes,47,Month-to-month,DSL,Electronic check,No,No,No,Yes,2,49.82,2286.95,No,25.7,No,No,Low Risk
+CUST104448,Female,1,No,Yes,10,Two year,Fiber optic,Electronic check,Yes,Yes,Yes,No internet service,1,60.51,614.61,No,21.46,No,No,Low Risk
+CUST102924,Female,0,No,No,41,Month-to-month,DSL,Electronic check,Yes,No,No internet service,Yes,0,35.08,1462.4,No,18.22,No,No,Low Risk
+CUST104206,Female,1,No,No,10,Month-to-month,DSL,Electronic check,Yes,No internet service,No,No,0,53.86,546.22,Yes,80.68,Yes,Yes,High Risk
+CUST104673,Female,0,No,Yes,17,One year,DSL,Electronic check,No,No internet service,Yes,No internet service,0,39.73,605.01,No,9.99,No,No,Low Risk
+CUST100972,Male,0,Yes,Yes,28,Two year,DSL,Electronic check,No,No,Yes,Yes,4,56.53,1578.37,No,13.26,No,No,Low Risk
+CUST101423,Male,0,No,Yes,12,Month-to-month,Fiber optic,Credit card (automatic),No,No,No,No internet service,1,71.06,818.72,Yes,61.33,Yes,Yes,High Risk
+CUST100701,Female,0,Yes,No,55,Month-to-month,DSL,Mailed check,No,No,No internet service,Yes,1,57.15,3105.56,No,7.94,No,No,Low Risk
+CUST104901,Male,0,No,No,27,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No,Yes,Yes,0,39.78,1119.95,No,9.38,No,No,Low Risk
+CUST100297,Male,0,Yes,No,31,Month-to-month,Fiber optic,Credit card (automatic),Yes,No,No,No,2,77.13,2411.58,No,41.54,No,No,Medium Risk
+CUST101396,Male,0,Yes,No,47,Month-to-month,DSL,Electronic check,Yes,Yes,No,Yes,3,37.76,1683.38,No,17.43,No,No,Low Risk
+CUST103106,Female,1,No,No,72,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes,No,Yes,2,57.11,4192.06,No,4.71,No,No,Low Risk
+CUST104856,Male,1,No,Yes,10,Two year,DSL,Electronic check,No,No,No internet service,No,0,51.83,460.88,No,22.43,No,No,Low Risk
+CUST101616,Male,1,No,No,55,One year,Fiber optic,Mailed check,Yes,No,Yes,No,4,88.08,4804.49,No,20.16,No,No,Low Risk
+CUST103458,Male,0,No,No,4,Month-to-month,DSL,Mailed check,No,Yes,No,No,1,36.75,97.85,No,43.89,No,No,Medium Risk
+CUST102605,Male,0,Yes,No,47,One year,No,Bank transfer (automatic),No,No,No internet service,No,2,33.65,1623.15,No,0.97,No,No,Low Risk
+CUST101211,Female,0,Yes,Yes,12,Two year,Fiber optic,Mailed check,Yes,Yes,No,No,1,64.67,773.28,No,6.75,No,No,Low Risk
+CUST102587,Female,0,Yes,Yes,42,Two year,Fiber optic,Electronic check,No,Yes,No,Yes,2,73.27,3100.34,No,7.29,No,No,Low Risk
+CUST102196,Male,0,Yes,Yes,19,Month-to-month,DSL,Bank transfer (automatic),Yes,No,Yes,No,1,65.14,1230.53,No,16.46,No,No,Low Risk
+CUST101959,Male,0,Yes,No,9,Month-to-month,No,Bank transfer (automatic),No,No,No,Yes,1,41.71,398.45,No,32.63,No,No,Medium Risk
+CUST103548,Male,0,Yes,No,63,Two year,DSL,Credit card (automatic),No,No internet service,No,No,1,55.4,3440.03,No,0.23,No,No,Low Risk
+CUST100732,Male,0,No,No,38,One year,Fiber optic,Electronic check,No,No,Yes,No internet service,2,64.94,2517.54,No,23.06,No,No,Low Risk
+CUST101637,Male,0,Yes,Yes,39,Two year,Fiber optic,Electronic check,No,No internet service,No,Yes,2,70.31,2779.1,No,12.24,No,No,Low Risk
+CUST100743,Male,0,Yes,No,3,Month-to-month,DSL,Electronic check,Yes,No internet service,No internet service,No,2,54.6,151.21,Yes,85.91,Yes,Yes,High Risk
+CUST104942,Female,0,No,No,10,Month-to-month,Fiber optic,Mailed check,Yes,No,No,No,5,89.48,865.79,Yes,97.13,Yes,Yes,High Risk
+CUST104372,Female,0,Yes,Yes,3,One year,No,Bank transfer (automatic),Yes,No,No internet service,No,2,33.39,114.83,No,9.03,No,No,Low Risk
+CUST100940,Female,0,Yes,No,51,Month-to-month,Fiber optic,Credit card (automatic),Yes,Yes,No internet service,Yes,1,82.29,4222.67,No,9.66,No,No,Low Risk
+CUST103200,Male,0,Yes,Yes,30,Month-to-month,No,Bank transfer (automatic),Yes,Yes,Yes,No,1,29.27,905.32,Yes,2.0,No,Yes,Low Risk
+CUST104689,Female,0,Yes,Yes,25,Month-to-month,Fiber optic,Electronic check,Yes,No internet service,Yes,No,0,86.76,2141.38,Yes,60.59,Yes,Yes,High Risk
+CUST102664,Female,0,No,Yes,49,Month-to-month,Fiber optic,Electronic check,No,No internet service,Yes,No internet service,0,81.67,4077.39,No,35.2,No,No,Medium Risk
+CUST101641,Male,0,Yes,No,23,One year,Fiber optic,Bank transfer (automatic),Yes,No internet service,No,No,0,78.67,1819.93,No,8.72,No,No,Low Risk
+CUST102744,Male,0,Yes,Yes,20,Month-to-month,Fiber optic,Electronic check,Yes,No,No,No,1,85.01,1758.69,Yes,82.06,Yes,Yes,High Risk
+CUST104289,Female,0,No,No,12,Two year,No,Bank transfer (automatic),Yes,No internet service,No,Yes,3,18.0,163.52,No,4.53,No,No,Low Risk
+CUST102508,Female,0,No,No,59,One year,No,Bank transfer (automatic),Yes,No internet service,Yes,No internet service,0,42.68,2504.04,No,0.23,No,No,Low Risk
+CUST104743,Male,0,No,Yes,4,Month-to-month,Fiber optic,Credit card (automatic),No,No,No,Yes,1,67.43,303.99,Yes,69.75,Yes,Yes,High Risk
+CUST104801,Male,0,No,No,48,Two year,Fiber optic,Electronic check,No,No,Yes,No,0,56.9,2792.81,No,2.61,No,No,Low Risk
+CUST104091,Male,0,No,No,14,One year,DSL,Credit card (automatic),Yes,No,No internet service,No internet service,1,51.16,739.88,Yes,9.09,No,Yes,Low Risk
+CUST101388,Male,0,Yes,Yes,39,Month-to-month,Fiber optic,Electronic check,Yes,Yes,No,No,2,87.02,3459.22,No,58.09,Yes,No,Medium Risk
+CUST101228,Female,0,Yes,Yes,16,Month-to-month,DSL,Credit card (automatic),Yes,No,No,Yes,5,65.18,1061.45,No,67.77,Yes,No,High Risk
+CUST103564,Male,0,Yes,Yes,33,Month-to-month,No,Credit card (automatic),No,Yes,No,Yes,0,19.01,551.98,No,1.59,No,No,Low Risk
+CUST101082,Male,0,No,Yes,19,Month-to-month,No,Electronic check,Yes,No,Yes,No internet service,0,30.9,613.63,No,27.09,No,No,Low Risk
+CUST103110,Male,0,No,No,55,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No,No,No internet service,1,89.31,4915.36,No,19.83,No,No,Low Risk
+CUST101482,Female,0,No,Yes,27,One year,No,Mailed check,Yes,No,Yes,No,1,20.4,528.83,No,1.62,No,No,Low Risk
+CUST101640,Female,0,Yes,No,31,Month-to-month,DSL,Electronic check,No,No,No internet service,Yes,0,50.46,1586.27,No,35.39,No,No,Medium Risk
+CUST102770,Male,0,Yes,Yes,46,Month-to-month,Fiber optic,Electronic check,Yes,Yes,No internet service,Yes,4,90.05,4146.48,Yes,69.52,Yes,Yes,High Risk
+CUST104888,Male,0,No,No,14,Month-to-month,DSL,Electronic check,Yes,No internet service,No,No,1,43.37,580.49,No,68.16,Yes,No,High Risk
+CUST102788,Female,0,No,No,15,Month-to-month,No,Credit card (automatic),Yes,No,Yes,Yes,0,41.63,690.2,No,15.6,No,No,Low Risk
+CUST100235,Female,0,No,No,4,Month-to-month,DSL,Credit card (automatic),Yes,No,Yes,Yes,0,52.49,224.5,No,31.14,No,No,Medium Risk
+CUST104575,Male,0,No,Yes,7,One year,Fiber optic,Mailed check,No,No internet service,No,No,2,72.3,526.02,Yes,52.41,Yes,Yes,Medium Risk
+CUST103833,Female,0,No,No,17,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes,No,No,1,64.59,1065.64,Yes,38.64,No,Yes,Medium Risk
+CUST104018,Male,1,No,No,10,One year,Fiber optic,Electronic check,No,No,Yes,No internet service,1,97.6,962.34,Yes,82.55,Yes,Yes,High Risk
+CUST102711,Male,0,Yes,No,20,Two year,Fiber optic,Bank transfer (automatic),Yes,No,No,No,1,88.0,1819.22,No,9.9,No,No,Low Risk
+CUST101720,Female,0,Yes,No,9,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,No,No,0,76.49,705.61,Yes,57.92,Yes,Yes,Medium Risk
+CUST102962,Female,0,No,No,5,Month-to-month,No,Mailed check,Yes,Yes,Yes,Yes,3,35.76,175.29,Yes,49.64,No,Yes,Medium Risk
+CUST103816,Male,0,No,No,52,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No,No internet service,No,5,75.48,3953.36,No,47.73,No,No,Medium Risk
+CUST103941,Female,0,No,Yes,21,Month-to-month,Fiber optic,Electronic check,No,No,No internet service,No,1,71.57,1482.02,Yes,83.31,Yes,Yes,High Risk
+CUST104952,Male,0,Yes,No,26,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes,No,Yes,2,113.56,2973.14,Yes,67.89,Yes,Yes,High Risk
+CUST103917,Female,1,Yes,No,65,One year,DSL,Electronic check,No,Yes,No internet service,No,1,76.93,4955.62,No,4.07,No,No,Low Risk
+CUST104101,Female,0,No,No,26,Month-to-month,DSL,Bank transfer (automatic),No,Yes,No,No,1,48.18,1254.24,No,14.29,No,No,Low Risk
+CUST100264,Male,0,No,No,19,One year,Fiber optic,Electronic check,Yes,No,Yes,No,5,56.29,1084.65,Yes,66.63,Yes,Yes,High Risk
+CUST101455,Male,1,Yes,No,25,Two year,Fiber optic,Mailed check,No,No internet service,No,Yes,0,72.19,1806.21,No,10.04,No,No,Low Risk
+CUST102240,Male,0,Yes,No,13,Month-to-month,Fiber optic,Credit card (automatic),Yes,No,No,Yes,0,63.87,861.38,No,37.95,No,No,Medium Risk
+CUST104685,Male,1,No,Yes,21,Two year,DSL,Bank transfer (automatic),Yes,Yes,No,Yes,1,53.62,1109.92,No,2.23,No,No,Low Risk
+CUST103690,Female,0,No,No,22,Two year,Fiber optic,Bank transfer (automatic),No,Yes,No,No,7,89.37,1960.31,Yes,54.04,Yes,Yes,Medium Risk
+CUST103614,Female,0,No,No,2,Month-to-month,DSL,Credit card (automatic),No,No,No,Yes,0,69.75,236.93,No,63.06,Yes,No,High Risk
+CUST102565,Female,0,No,No,35,Month-to-month,Fiber optic,Electronic check,No,Yes,No,Yes,1,89.83,3201.87,Yes,75.37,Yes,Yes,High Risk
+CUST103214,Male,0,No,Yes,25,Month-to-month,Fiber optic,Mailed check,No,No,No,Yes,1,62.8,1594.37,Yes,50.6,Yes,Yes,Medium Risk
+CUST100868,Male,0,No,No,14,One year,No,Credit card (automatic),Yes,No,No,Yes,0,18.0,319.66,No,2.55,No,No,Low Risk
+CUST100495,Male,1,Yes,No,20,Month-to-month,Fiber optic,Electronic check,No,Yes,No,Yes,1,76.95,1573.15,Yes,83.0,Yes,Yes,High Risk
+CUST102553,Female,0,Yes,No,18,Month-to-month,Fiber optic,Electronic check,Yes,No internet service,No internet service,No,2,38.68,670.69,Yes,69.92,Yes,Yes,High Risk
+CUST101365,Female,0,No,No,72,Two year,DSL,Credit card (automatic),No,Yes,No,No internet service,0,47.73,3412.8,No,0.06,No,No,Low Risk
+CUST102525,Female,0,Yes,No,4,Month-to-month,No,Mailed check,Yes,No,Yes,Yes,2,34.1,101.31,Yes,43.87,No,Yes,Medium Risk
+CUST103590,Male,0,No,Yes,15,One year,Fiber optic,Bank transfer (automatic),No,No internet service,No internet service,Yes,0,73.68,1093.09,Yes,14.77,No,Yes,Low Risk
+CUST102131,Male,0,No,No,49,One year,DSL,Bank transfer (automatic),No,No,No,No internet service,1,51.08,2540.17,No,1.35,No,No,Low Risk
+CUST101315,Female,0,No,Yes,8,Month-to-month,No,Credit card (automatic),Yes,No internet service,No,Yes,1,18.0,208.0,No,20.02,No,No,Low Risk
+CUST104637,Male,0,No,No,9,Two year,Fiber optic,Credit card (automatic),No,Yes,Yes,No,0,83.56,727.46,No,7.05,No,No,Low Risk
+CUST102557,Male,0,No,No,48,Two year,DSL,Bank transfer (automatic),No,Yes,No,Yes,0,20.97,946.48,No,0.1,No,No,Low Risk
+CUST103561,Female,0,Yes,Yes,38,Two year,No,Mailed check,Yes,Yes,No,Yes,1,25.76,952.08,No,0.31,No,No,Low Risk
+CUST101047,Male,0,Yes,No,1,Two year,No,Bank transfer (automatic),Yes,No,No internet service,No,2,18.0,0.0,No,3.9,No,No,Low Risk
+CUST104950,Female,0,No,No,72,One year,Fiber optic,Bank transfer (automatic),Yes,No,Yes,Yes,2,82.75,6033.45,No,1.26,No,No,Low Risk
+CUST100108,Female,0,Yes,No,12,Month-to-month,DSL,Electronic check,No,No,No,No,1,35.73,405.65,Yes,61.38,Yes,Yes,High Risk
+CUST102717,Male,0,Yes,Yes,44,Month-to-month,Fiber optic,Credit card (automatic),Yes,No,Yes,Yes,2,58.82,2589.86,Yes,7.7,No,Yes,Low Risk
+CUST100466,Female,0,Yes,No,12,One year,No,Bank transfer (automatic),Yes,No,Yes,No,1,39.41,442.34,No,3.55,No,No,Low Risk
+CUST103262,Male,1,No,No,45,Month-to-month,No,Mailed check,Yes,No,Yes,No internet service,3,29.69,1330.52,No,14.8,No,No,Low Risk
+CUST103986,Female,1,Yes,No,10,Two year,DSL,Mailed check,No,Yes,No internet service,Yes,1,58.69,582.58,No,9.64,No,No,Low Risk
+CUST100938,Female,1,No,No,16,One year,Fiber optic,Electronic check,No,No,Yes,No internet service,1,69.32,1201.22,Yes,58.47,Yes,Yes,Medium Risk
+CUST104890,Female,0,No,No,44,Month-to-month,Fiber optic,Bank transfer (automatic),No,No internet service,No,No,0,72.16,3228.81,Yes,17.95,No,Yes,Low Risk
+CUST104384,Male,1,No,No,8,Two year,DSL,Bank transfer (automatic),No,No internet service,No internet service,Yes,3,44.55,330.86,No,17.92,No,No,Low Risk
+CUST103050,Female,0,Yes,No,47,Month-to-month,No,Bank transfer (automatic),No,No internet service,No,No,1,31.74,1493.49,No,3.41,No,No,Low Risk
+CUST104803,Male,1,No,Yes,29,Two year,Fiber optic,Electronic check,Yes,No,No,No,0,47.18,1405.21,No,9.22,No,No,Low Risk
+CUST101796,Male,0,No,No,7,Two year,DSL,Electronic check,Yes,No,No internet service,No,2,67.57,421.92,Yes,47.85,No,Yes,Medium Risk
+CUST104195,Female,0,Yes,No,39,Month-to-month,Fiber optic,Electronic check,Yes,Yes,No,No,2,85.66,3277.58,No,64.31,Yes,No,High Risk
+CUST101799,Male,0,Yes,No,48,Month-to-month,No,Bank transfer (automatic),No,No,No,No internet service,3,32.17,1544.1,No,6.67,No,No,Low Risk
+CUST101141,Male,1,Yes,No,12,One year,DSL,Credit card (automatic),No,Yes,No internet service,No internet service,1,86.52,1061.41,No,20.25,No,No,Low Risk
+CUST104976,Male,0,Yes,No,50,One year,Fiber optic,Mailed check,Yes,Yes,No,Yes,2,74.82,3799.64,No,3.98,No,No,Low Risk
+CUST101809,Female,0,Yes,Yes,53,Month-to-month,Fiber optic,Mailed check,Yes,No internet service,Yes,Yes,2,76.11,4046.39,No,14.31,No,No,Low Risk
+CUST102764,Male,1,No,No,69,Month-to-month,DSL,Electronic check,Yes,Yes,No internet service,No,0,52.9,3701.19,No,5.97,No,No,Low Risk
+CUST104719,Female,1,Yes,No,3,Month-to-month,No,Electronic check,No,No,No,No,2,18.0,92.37,Yes,80.4,Yes,Yes,High Risk
+CUST104104,Male,0,Yes,Yes,5,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,No,0,72.96,372.86,No,41.63,No,No,Medium Risk
+CUST103539,Male,1,No,No,12,Two year,DSL,Electronic check,Yes,No internet service,Yes,No,2,28.4,329.08,No,15.4,No,No,Low Risk
+CUST102692,Female,0,Yes,Yes,41,Month-to-month,Fiber optic,Credit card (automatic),Yes,No internet service,Yes,No internet service,0,90.48,3688.87,No,11.89,No,No,Low Risk
+CUST102419,Female,0,Yes,No,14,Two year,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,Yes,1,69.76,1030.9,No,3.15,No,No,Low Risk
+CUST104224,Female,0,No,No,18,One year,Fiber optic,Bank transfer (automatic),No,Yes,No,Yes,2,85.39,1464.5,No,27.26,No,No,Low Risk
+CUST103541,Female,0,No,No,22,Month-to-month,Fiber optic,Mailed check,Yes,No,Yes,Yes,0,65.49,1546.32,Yes,39.03,No,Yes,Medium Risk
+CUST104513,Male,0,No,Yes,11,Two year,Fiber optic,Electronic check,Yes,Yes,Yes,No,2,77.29,943.04,No,28.9,No,No,Low Risk
+CUST104324,Female,0,No,No,23,One year,Fiber optic,Credit card (automatic),Yes,No,No,Yes,0,35.66,734.98,No,3.59,No,No,Low Risk
+CUST100056,Female,0,Yes,No,26,Two year,Fiber optic,Mailed check,Yes,No,No,No internet service,2,64.95,1729.72,Yes,9.57,No,Yes,Low Risk
+CUST103870,Female,0,No,No,36,Month-to-month,Fiber optic,Electronic check,No,Yes,No,No internet service,0,98.89,3527.01,Yes,72.06,Yes,Yes,High Risk
+CUST102035,Female,0,Yes,Yes,15,Month-to-month,Fiber optic,Electronic check,No,No internet service,No,Yes,1,97.36,1440.66,Yes,91.89,Yes,Yes,High Risk
+CUST100438,Male,1,Yes,Yes,59,One year,Fiber optic,Mailed check,No,No internet service,No,No internet service,3,79.03,4628.14,No,9.0,No,No,Low Risk
+CUST101576,Male,0,No,No,11,Month-to-month,Fiber optic,Electronic check,Yes,Yes,Yes,No,2,84.66,940.81,Yes,88.54,Yes,Yes,High Risk
+CUST104951,Female,0,No,Yes,7,One year,No,Bank transfer (automatic),No,No,Yes,No,0,28.98,204.17,Yes,3.06,No,Yes,Low Risk
+CUST102486,Female,0,Yes,No,22,Two year,DSL,Electronic check,Yes,Yes,No,No,1,67.66,1414.56,No,9.49,No,No,Low Risk
+CUST101550,Male,1,No,No,31,Month-to-month,DSL,Electronic check,No,No,Yes,Yes,0,52.17,1663.09,Yes,43.26,No,Yes,Medium Risk
+CUST101155,Male,0,Yes,No,15,One year,DSL,Bank transfer (automatic),Yes,Yes,Yes,No,3,59.96,885.1,No,6.12,No,No,Low Risk
+CUST100447,Female,0,No,Yes,24,Month-to-month,No,Electronic check,No,No internet service,No internet service,Yes,0,18.0,408.19,No,26.73,No,No,Low Risk
+CUST104055,Male,0,No,No,55,Two year,Fiber optic,Credit card (automatic),No,No,No,No internet service,1,71.8,3882.83,No,1.4,No,No,Low Risk
+CUST101994,Male,0,No,No,26,Two year,Fiber optic,Credit card (automatic),Yes,No,No internet service,Yes,2,67.89,1741.38,No,8.27,No,No,Low Risk
+CUST101498,Male,0,Yes,No,22,Month-to-month,No,Electronic check,Yes,No,Yes,Yes,3,27.88,498.49,No,45.36,No,No,Medium Risk
+CUST104973,Female,0,Yes,No,37,Month-to-month,No,Credit card (automatic),Yes,No,Yes,No,2,26.32,1049.93,No,4.18,No,No,Low Risk
+CUST104887,Male,1,Yes,No,24,Month-to-month,DSL,Mailed check,No,Yes,Yes,No,1,40.19,980.91,No,14.24,No,No,Low Risk
+CUST103714,Male,0,No,No,28,Month-to-month,No,Bank transfer (automatic),Yes,Yes,Yes,No internet service,2,18.0,459.75,No,4.33,No,No,Low Risk
+CUST102511,Male,0,No,Yes,20,Month-to-month,DSL,Bank transfer (automatic),No,No internet service,No,Yes,1,73.07,1384.34,No,40.55,No,No,Medium Risk
+CUST102441,Female,0,Yes,Yes,44,Month-to-month,Fiber optic,Mailed check,Yes,No internet service,No,Yes,0,60.85,2732.08,Yes,11.19,No,Yes,Low Risk
+CUST100800,Male,0,No,No,25,Month-to-month,Fiber optic,Bank transfer (automatic),No,No internet service,Yes,No,2,66.66,1644.65,No,42.1,No,No,Medium Risk
+CUST102359,Male,1,Yes,No,21,One year,Fiber optic,Credit card (automatic),Yes,No,No,Yes,1,71.08,1451.63,No,16.76,No,No,Low Risk
+CUST100711,Female,0,No,Yes,28,Month-to-month,No,Electronic check,No,No,Yes,No,1,33.2,826.38,No,29.58,No,No,Low Risk
+CUST101816,Female,0,No,Yes,24,Month-to-month,DSL,Electronic check,Yes,Yes,No,No internet service,0,54.86,1338.99,Yes,34.79,No,Yes,Medium Risk
+CUST102464,Male,0,No,No,44,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No,No internet service,No,2,83.01,3623.88,No,36.24,No,No,Medium Risk
+CUST101241,Female,0,Yes,Yes,10,Two year,DSL,Credit card (automatic),No,Yes,Yes,No,2,76.98,734.84,No,4.48,No,No,Low Risk
+CUST102143,Male,0,Yes,No,31,Month-to-month,Fiber optic,Electronic check,Yes,No,No,Yes,2,69.43,2169.5,Yes,73.69,Yes,Yes,High Risk
+CUST103864,Female,0,Yes,Yes,48,Month-to-month,DSL,Credit card (automatic),Yes,No,No,No internet service,1,48.09,2269.57,No,3.34,No,No,Low Risk
+CUST100747,Male,0,No,Yes,27,Two year,Fiber optic,Electronic check,Yes,No,No internet service,No internet service,2,81.65,2189.02,Yes,33.83,No,Yes,Medium Risk
+CUST102214,Female,0,No,No,17,One year,Fiber optic,Mailed check,No,No,No internet service,Yes,1,74.61,1247.59,Yes,37.7,No,Yes,Medium Risk
+CUST104860,Female,0,No,No,18,One year,Fiber optic,Bank transfer (automatic),Yes,Yes,No,No,1,78.88,1470.13,No,14.74,No,No,Low Risk
+CUST102713,Female,0,No,Yes,35,Two year,Fiber optic,Electronic check,Yes,No,No internet service,No,0,71.11,2586.83,Yes,9.62,No,Yes,Low Risk
+CUST100871,Female,0,Yes,Yes,7,Month-to-month,No,Bank transfer (automatic),Yes,No,Yes,Yes,2,30.35,219.17,No,19.17,No,No,Low Risk
+CUST100172,Male,0,No,No,20,Month-to-month,DSL,Electronic check,No,No internet service,No,No internet service,3,42.08,831.56,No,78.8,Yes,No,High Risk
+CUST102063,Female,0,No,No,46,Two year,No,Electronic check,Yes,No,No,No internet service,0,18.0,755.03,No,0.88,No,No,Low Risk
+CUST104505,Male,0,No,No,6,Month-to-month,Fiber optic,Bank transfer (automatic),No,No internet service,No,No,3,91.8,531.17,Yes,92.53,Yes,Yes,High Risk
+CUST103289,Female,0,Yes,No,50,Two year,Fiber optic,Electronic check,No,No,Yes,Yes,1,64.75,3221.54,No,3.23,No,No,Low Risk
+CUST103612,Male,1,Yes,No,4,One year,No,Electronic check,Yes,Yes,No internet service,No internet service,1,37.03,56.42,No,28.87,No,No,Low Risk
+CUST103606,Female,0,No,No,22,Month-to-month,Fiber optic,Electronic check,Yes,No,No internet service,No internet service,3,78.06,1736.69,Yes,93.52,Yes,Yes,High Risk
+CUST102118,Male,0,No,No,37,Month-to-month,No,Credit card (automatic),Yes,No internet service,Yes,No internet service,5,18.0,658.58,No,13.22,No,No,Low Risk
+CUST101453,Male,0,No,No,12,One year,Fiber optic,Mailed check,Yes,No internet service,Yes,No,0,99.99,1151.04,No,37.66,No,No,Medium Risk
+CUST102938,Male,0,Yes,No,3,Two year,No,Electronic check,No,No,No internet service,No,0,50.03,88.09,No,21.27,No,No,Low Risk
+CUST100557,Female,0,Yes,Yes,29,Two year,Fiber optic,Bank transfer (automatic),No,No internet service,No internet service,Yes,1,86.84,2502.92,No,5.58,No,No,Low Risk
+CUST101073,Male,1,Yes,No,22,Month-to-month,DSL,Electronic check,Yes,Yes,No,Yes,2,58.3,1268.28,No,66.52,Yes,No,High Risk
+CUST103958,Male,0,No,Yes,46,Month-to-month,DSL,Electronic check,Yes,Yes,No internet service,Yes,1,37.96,1836.04,No,10.31,No,No,Low Risk
+CUST100918,Female,0,No,No,9,Month-to-month,DSL,Credit card (automatic),Yes,No internet service,No internet service,Yes,1,47.72,380.8,No,41.24,No,No,Medium Risk
+CUST101697,Male,0,No,No,33,Two year,No,Credit card (automatic),Yes,No internet service,No,No internet service,0,35.02,1142.65,No,0.66,No,No,Low Risk
+CUST101587,Male,0,No,Yes,24,Two year,No,Electronic check,Yes,No,No internet service,No,2,25.38,603.77,No,6.73,No,No,Low Risk
+CUST101776,Female,0,Yes,Yes,35,Month-to-month,Fiber optic,Bank transfer (automatic),No,No internet service,No,No,4,63.49,2196.21,No,42.0,No,No,Medium Risk
+CUST100499,Female,1,Yes,Yes,12,Month-to-month,DSL,Electronic check,Yes,Yes,No internet service,No,5,62.22,734.7,Yes,91.59,Yes,Yes,High Risk
+CUST104784,Male,0,Yes,No,51,Month-to-month,Fiber optic,Mailed check,Yes,Yes,No internet service,No internet service,3,61.16,3119.64,No,16.54,No,No,Low Risk
+CUST101551,Male,0,No,No,30,Month-to-month,No,Mailed check,No,No internet service,Yes,Yes,1,33.37,1057.54,No,14.54,No,No,Low Risk
+CUST103208,Female,0,No,No,5,One year,Fiber optic,Bank transfer (automatic),Yes,No,Yes,No internet service,0,89.77,549.97,Yes,27.06,No,Yes,Low Risk
+CUST101339,Female,0,Yes,No,70,Two year,DSL,Electronic check,Yes,No internet service,No,Yes,3,31.79,2252.51,No,0.66,No,No,Low Risk
+CUST104274,Male,0,No,No,7,Month-to-month,No,Bank transfer (automatic),Yes,No,Yes,No internet service,0,20.02,210.31,No,12.15,No,No,Low Risk
+CUST101897,Male,0,Yes,Yes,12,One year,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,Yes,1,66.55,747.53,No,4.81,No,No,Low Risk
+CUST104919,Male,0,Yes,No,8,Month-to-month,Fiber optic,Mailed check,Yes,Yes,No internet service,No,0,73.77,614.74,No,54.21,Yes,No,Medium Risk
+CUST101786,Female,1,No,Yes,28,Two year,No,Electronic check,No,No,Yes,No internet service,1,18.0,517.33,No,3.32,No,No,Low Risk
+CUST102139,Female,0,Yes,No,49,Two year,No,Mailed check,Yes,No,No internet service,No internet service,1,24.23,1107.93,No,0.33,No,No,Low Risk
+CUST102521,Female,0,Yes,No,16,Month-to-month,DSL,Credit card (automatic),Yes,No internet service,Yes,No,0,18.0,291.57,No,4.62,No,No,Low Risk
+CUST104398,Male,0,No,No,16,Month-to-month,Fiber optic,Electronic check,No,No internet service,No,No,0,76.34,1250.4,No,86.75,Yes,No,High Risk
+CUST104468,Male,0,Yes,No,50,Two year,Fiber optic,Credit card (automatic),No,Yes,Yes,Yes,2,61.61,3098.78,No,0.49,No,No,Low Risk
+CUST100164,Female,0,Yes,No,16,Two year,No,Bank transfer (automatic),Yes,No,No,No internet service,1,22.48,372.47,No,1.29,No,No,Low Risk
+CUST100574,Male,0,No,No,49,Month-to-month,DSL,Electronic check,Yes,No,No,Yes,2,58.06,2848.37,Yes,38.68,No,Yes,Medium Risk
+CUST103250,Male,0,Yes,No,27,Month-to-month,DSL,Bank transfer (automatic),Yes,No internet service,Yes,No internet service,1,70.32,1836.84,No,15.84,No,No,Low Risk
+CUST102825,Female,0,Yes,No,26,Month-to-month,DSL,Credit card (automatic),Yes,No,No,No internet service,1,37.46,997.43,No,10.8,No,No,Low Risk
+CUST101808,Female,0,Yes,Yes,39,Month-to-month,No,Bank transfer (automatic),Yes,No,Yes,No,2,18.0,663.15,No,2.12,No,No,Low Risk
+CUST104858,Male,0,Yes,No,58,Month-to-month,DSL,Bank transfer (automatic),No,Yes,No,Yes,0,49.37,2867.01,No,1.08,No,No,Low Risk
+CUST103776,Male,0,Yes,Yes,47,Two year,Fiber optic,Electronic check,No,Yes,No internet service,Yes,2,73.88,3448.01,No,5.36,No,No,Low Risk
+CUST104523,Male,0,No,Yes,33,Month-to-month,Fiber optic,Mailed check,Yes,No,Yes,No,1,90.18,3001.6,Yes,44.7,No,Yes,Medium Risk
+CUST103935,Female,0,No,No,23,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,No internet service,2,65.97,1450.84,Yes,78.79,Yes,Yes,High Risk
+CUST100103,Female,0,No,No,18,Month-to-month,Fiber optic,Mailed check,Yes,Yes,Yes,No,2,70.21,1246.89,No,54.71,Yes,No,Medium Risk
+CUST102210,Male,0,Yes,No,14,Month-to-month,DSL,Bank transfer (automatic),Yes,No,Yes,Yes,2,48.22,728.43,Yes,23.27,No,Yes,Low Risk
+CUST104032,Male,1,No,No,20,One year,DSL,Bank transfer (automatic),No,No,Yes,No internet service,4,60.17,1170.76,Yes,24.86,No,Yes,Low Risk
+CUST100934,Female,0,No,No,11,Two year,DSL,Bank transfer (automatic),Yes,No,Yes,Yes,1,61.5,694.18,No,4.73,No,No,Low Risk
+CUST100390,Male,0,Yes,No,25,One year,DSL,Bank transfer (automatic),Yes,No internet service,Yes,Yes,3,51.7,1297.57,No,4.52,No,No,Low Risk
+CUST100052,Male,0,No,Yes,22,One year,DSL,Mailed check,No,No internet service,No,Yes,4,44.63,965.68,No,21.36,No,No,Low Risk
+CUST103725,Female,0,Yes,No,68,Two year,Fiber optic,Electronic check,No,Yes,Yes,No,3,80.24,5448.66,No,2.44,No,No,Low Risk
+CUST102298,Male,0,Yes,No,8,Month-to-month,DSL,Credit card (automatic),Yes,No,Yes,Yes,1,50.71,406.15,No,24.55,No,No,Low Risk
+CUST103630,Female,0,No,No,19,Two year,DSL,Mailed check,Yes,No internet service,No internet service,No,3,67.01,1263.63,No,19.91,No,No,Low Risk
+CUST104568,Female,0,No,No,25,Month-to-month,Fiber optic,Mailed check,No,No,Yes,Yes,2,64.85,1675.1,Yes,57.67,Yes,Yes,Medium Risk
+CUST102916,Male,0,No,Yes,16,One year,DSL,Credit card (automatic),No,Yes,No,No,0,50.29,808.77,No,2.93,No,No,Low Risk
+CUST104100,Female,0,Yes,No,20,Month-to-month,DSL,Mailed check,Yes,Yes,Yes,No,1,82.23,1680.79,No,32.55,No,No,Medium Risk
+CUST104813,Female,0,Yes,No,60,One year,Fiber optic,Electronic check,Yes,No,No internet service,Yes,1,59.99,3619.93,No,4.4,No,No,Low Risk
+CUST104894,Male,0,No,No,34,Month-to-month,Fiber optic,Electronic check,Yes,Yes,Yes,No internet service,0,62.08,2148.66,No,29.72,No,No,Low Risk
+CUST101903,Male,0,Yes,No,39,Month-to-month,DSL,Credit card (automatic),Yes,No,No internet service,No internet service,1,56.0,2231.15,No,8.84,No,No,Low Risk
+CUST103936,Female,0,No,No,41,One year,Fiber optic,Bank transfer (automatic),Yes,Yes,No,No internet service,4,59.56,2493.52,No,7.14,No,No,Low Risk
+CUST102728,Male,0,Yes,No,13,Month-to-month,DSL,Credit card (automatic),Yes,No internet service,No,No,1,71.81,942.0,No,43.6,No,No,Medium Risk
+CUST103985,Female,0,Yes,No,18,One year,Fiber optic,Credit card (automatic),No,No,No internet service,No,3,80.92,1492.02,Yes,36.79,No,Yes,Medium Risk
+CUST101158,Female,0,Yes,Yes,22,One year,DSL,Electronic check,No,No,Yes,No,3,55.95,1228.48,Yes,24.01,No,Yes,Low Risk
+CUST102891,Male,0,No,No,72,One year,Fiber optic,Mailed check,Yes,Yes,No internet service,Yes,0,91.58,6549.36,No,1.31,No,No,Low Risk
+CUST104749,Male,0,No,No,7,Month-to-month,No,Electronic check,Yes,No,No internet service,No internet service,1,18.0,81.22,Yes,62.14,Yes,Yes,High Risk
+CUST104788,Female,1,Yes,No,9,Month-to-month,DSL,Credit card (automatic),Yes,No internet service,No internet service,Yes,1,66.96,630.68,Yes,57.99,Yes,Yes,Medium Risk
+CUST101314,Female,0,No,No,29,Month-to-month,DSL,Electronic check,No,No,No,No,2,59.14,1684.36,Yes,72.61,Yes,Yes,High Risk
+CUST102797,Female,0,Yes,Yes,32,Month-to-month,DSL,Bank transfer (automatic),No,No internet service,No,Yes,1,54.02,1754.59,No,11.35,No,No,Low Risk
+CUST104863,Male,1,Yes,Yes,36,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No internet service,No,Yes,2,82.27,2995.65,Yes,42.22,No,Yes,Medium Risk
+CUST102360,Female,0,No,Yes,56,Two year,DSL,Mailed check,Yes,No internet service,No,Yes,1,73.21,4140.75,No,1.16,No,No,Low Risk
+CUST100553,Female,0,No,No,30,Month-to-month,Fiber optic,Mailed check,No,No,No,No internet service,1,73.99,2207.86,Yes,59.78,Yes,Yes,Medium Risk
+CUST100988,Female,0,Yes,Yes,19,Two year,Fiber optic,Credit card (automatic),Yes,Yes,Yes,No internet service,2,77.7,1478.74,No,3.51,No,No,Low Risk
+CUST102333,Male,0,No,No,28,Two year,Fiber optic,Electronic check,Yes,No,Yes,No internet service,2,72.52,2067.35,Yes,22.09,No,Yes,Low Risk
+CUST100139,Male,0,Yes,No,13,One year,No,Credit card (automatic),Yes,No,Yes,No,0,18.0,189.01,No,1.13,No,No,Low Risk
+CUST100883,Female,0,No,No,34,Two year,No,Credit card (automatic),Yes,No,Yes,No internet service,2,25.71,896.76,No,0.65,No,No,Low Risk
+CUST103292,Male,1,No,Yes,26,Two year,Fiber optic,Credit card (automatic),No,No internet service,Yes,No internet service,1,66.49,1784.97,No,4.63,No,No,Low Risk
+CUST103502,Male,1,No,No,23,Month-to-month,DSL,Electronic check,Yes,Yes,No,Yes,1,59.43,1385.38,Yes,65.61,Yes,Yes,High Risk
+CUST101296,Male,0,Yes,No,36,Month-to-month,Fiber optic,Electronic check,Yes,No internet service,No internet service,Yes,2,70.79,2626.09,Yes,68.56,Yes,Yes,High Risk
+CUST103467,Female,0,No,No,7,One year,Fiber optic,Credit card (automatic),No,Yes,Yes,No internet service,1,57.58,464.85,No,10.97,No,No,Low Risk
+CUST103925,Female,0,Yes,No,44,Month-to-month,No,Bank transfer (automatic),No,Yes,Yes,Yes,2,18.0,850.2,No,1.41,No,No,Low Risk
+CUST100071,Female,1,No,No,38,One year,No,Electronic check,Yes,Yes,No,No internet service,2,33.71,1296.1,No,9.45,No,No,Low Risk
+CUST104146,Male,1,Yes,No,36,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No,Yes,No,3,70.04,2437.19,No,36.15,No,No,Medium Risk
+CUST100519,Female,0,No,No,56,Month-to-month,DSL,Electronic check,Yes,No,Yes,No internet service,1,62.0,3349.4,No,16.63,No,No,Low Risk
+CUST103748,Male,0,Yes,No,72,One year,Fiber optic,Credit card (automatic),Yes,Yes,No,No,3,88.93,6354.78,No,1.47,No,No,Low Risk
+CUST102654,Male,0,No,No,7,Month-to-month,No,Bank transfer (automatic),Yes,No internet service,No,No,1,43.85,269.18,No,41.96,No,No,Medium Risk
+CUST102178,Male,0,No,No,9,Month-to-month,DSL,Mailed check,Yes,No,Yes,No internet service,3,53.41,525.49,Yes,66.22,Yes,Yes,High Risk
+CUST104273,Female,0,Yes,No,4,Month-to-month,DSL,Electronic check,Yes,No,No,No internet service,0,49.48,173.47,No,69.68,Yes,No,High Risk
+CUST101426,Male,0,No,Yes,25,Month-to-month,No,Bank transfer (automatic),Yes,No internet service,No internet service,No,0,44.71,1106.79,No,11.34,No,No,Low Risk
+CUST102529,Male,0,No,No,26,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,No internet service,2,67.2,1672.22,No,75.48,Yes,No,High Risk
+CUST101372,Female,0,No,No,66,Two year,No,Bank transfer (automatic),Yes,No,No internet service,Yes,0,27.51,1919.35,No,0.07,No,No,Low Risk
+CUST100849,Female,0,No,No,48,Month-to-month,Fiber optic,Mailed check,No,No,Yes,No,1,74.48,3521.29,Yes,23.93,No,Yes,Low Risk
+CUST101635,Male,0,No,No,27,Month-to-month,DSL,Electronic check,Yes,Yes,No internet service,No,2,78.32,2239.81,Yes,72.8,Yes,Yes,High Risk
+CUST103165,Male,0,Yes,No,19,Month-to-month,No,Credit card (automatic),No,Yes,Yes,Yes,1,18.0,336.59,No,4.24,No,No,Low Risk
+CUST104885,Male,0,Yes,No,61,Month-to-month,DSL,Electronic check,Yes,No,Yes,Yes,2,67.2,3989.98,No,14.78,No,No,Low Risk
+CUST100287,Male,0,No,No,56,Month-to-month,DSL,Bank transfer (automatic),Yes,Yes,No,No,1,56.18,3230.32,No,2.82,No,No,Low Risk
+CUST100126,Female,0,No,No,11,Month-to-month,Fiber optic,Mailed check,Yes,No,No,Yes,0,59.52,639.64,No,62.53,Yes,No,High Risk
+CUST104399,Male,0,Yes,No,22,Month-to-month,No,Credit card (automatic),Yes,No,No,No internet service,2,31.1,704.59,No,16.75,No,No,Low Risk
+CUST102666,Female,0,Yes,Yes,14,Month-to-month,Fiber optic,Electronic check,No,No,No,Yes,2,76.69,1173.92,Yes,90.24,Yes,Yes,High Risk
+CUST103565,Female,0,Yes,No,20,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No internet service,No internet service,No internet service,1,62.75,1300.29,No,36.88,No,No,Medium Risk
+CUST100739,Female,0,Yes,No,16,Two year,Fiber optic,Mailed check,Yes,No internet service,Yes,No,1,62.88,947.69,No,6.81,No,No,Low Risk
+CUST102282,Female,0,No,No,66,One year,DSL,Bank transfer (automatic),Yes,Yes,No,No,0,45.39,2868.87,No,0.14,No,No,Low Risk
+CUST104555,Female,0,No,Yes,71,Month-to-month,No,Electronic check,Yes,No,No,Yes,1,45.22,3219.94,No,6.11,No,No,Low Risk
+CUST101450,Female,0,Yes,No,5,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,No,2,68.69,405.87,Yes,47.83,No,Yes,Medium Risk
+CUST101735,Female,0,Yes,No,2,Month-to-month,Fiber optic,Mailed check,Yes,No,Yes,Yes,3,106.58,232.85,Yes,94.63,Yes,Yes,High Risk
+CUST104946,Male,0,No,Yes,42,One year,No,Credit card (automatic),No,Yes,No,No,1,18.0,734.91,No,0.35,No,No,Low Risk
+CUST101593,Female,1,No,No,12,Month-to-month,No,Mailed check,No,No,No,No,0,21.23,244.22,No,38.08,No,No,Medium Risk
+CUST101006,Female,1,Yes,No,45,Month-to-month,Fiber optic,Mailed check,Yes,No,No,No,1,69.2,3235.65,No,32.02,No,No,Medium Risk
+CUST103966,Male,0,Yes,No,11,One year,DSL,Bank transfer (automatic),No,No,No,Yes,2,66.54,795.46,No,18.74,No,No,Low Risk
+CUST100260,Male,0,No,Yes,18,Two year,Fiber optic,Electronic check,Yes,Yes,No internet service,Yes,4,79.85,1408.04,No,51.74,Yes,No,Medium Risk
+CUST100385,Female,1,No,Yes,33,Two year,DSL,Electronic check,No,No,No internet service,No,2,39.67,1274.5,No,10.1,No,No,Low Risk
+CUST101580,Female,0,Yes,Yes,72,Two year,No,Credit card (automatic),Yes,No internet service,Yes,Yes,1,18.0,1353.08,No,0.02,No,No,Low Risk
+CUST101560,Male,0,No,No,61,Month-to-month,DSL,Electronic check,Yes,No internet service,Yes,Yes,0,47.8,2972.54,No,5.56,No,No,Low Risk
+CUST102290,Female,0,Yes,No,13,Two year,Fiber optic,Credit card (automatic),Yes,Yes,No,No,1,54.9,795.79,Yes,3.46,No,Yes,Low Risk
+CUST100891,Male,1,Yes,No,68,Month-to-month,DSL,Credit card (automatic),No,No,No,Yes,1,53.81,3631.32,No,2.77,No,No,Low Risk
+CUST102340,Female,1,No,Yes,7,One year,DSL,Bank transfer (automatic),No,No,Yes,No internet service,4,52.81,311.75,No,31.48,No,No,Medium Risk
+CUST103378,Female,0,Yes,Yes,72,Two year,DSL,Bank transfer (automatic),Yes,Yes,No internet service,No internet service,0,54.33,3866.88,No,0.03,No,No,Low Risk
+CUST100735,Male,0,No,No,42,Month-to-month,Fiber optic,Electronic check,No,Yes,No,Yes,2,73.72,3077.24,No,62.57,Yes,No,High Risk
+CUST104230,Male,0,No,No,58,Two year,DSL,Mailed check,No,No internet service,No internet service,No,1,37.92,2188.54,No,0.44,No,No,Low Risk
+CUST104309,Male,0,Yes,Yes,18,One year,Fiber optic,Electronic check,Yes,No,No,No,2,64.84,1191.97,Yes,42.08,No,Yes,Medium Risk
+CUST104934,Female,0,Yes,Yes,10,Month-to-month,Fiber optic,Mailed check,Yes,No internet service,Yes,Yes,2,63.28,666.33,Yes,58.69,Yes,Yes,Medium Risk
+CUST104136,Female,1,No,No,35,Month-to-month,DSL,Electronic check,Yes,No internet service,No,No,2,40.05,1489.22,Yes,56.53,Yes,Yes,Medium Risk
+CUST100350,Female,0,Yes,Yes,21,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes,No internet service,No,1,65.99,1273.01,No,21.3,No,No,Low Risk
+CUST101970,Male,1,Yes,No,45,Month-to-month,No,Mailed check,No,Yes,No,No internet service,3,24.13,1002.8,No,9.89,No,No,Low Risk
+CUST103524,Male,0,Yes,No,25,One year,DSL,Bank transfer (automatic),No,No,No,No internet service,2,41.27,1127.22,No,4.14,No,No,Low Risk
+CUST104833,Female,0,No,No,33,Month-to-month,No,Mailed check,Yes,Yes,No,No,2,39.97,1326.69,No,18.2,No,No,Low Risk
+CUST102387,Female,0,No,Yes,11,Month-to-month,DSL,Bank transfer (automatic),Yes,Yes,No,No internet service,2,52.67,570.71,Yes,31.84,No,Yes,Medium Risk
+CUST103037,Female,1,Yes,No,12,Month-to-month,Fiber optic,Mailed check,Yes,No,No,Yes,2,76.34,946.23,Yes,86.44,Yes,Yes,High Risk
+CUST104158,Female,0,Yes,Yes,8,Two year,No,Electronic check,No,No,No,Yes,0,42.9,331.17,No,11.46,No,No,Low Risk
+CUST101108,Female,1,No,Yes,11,Month-to-month,DSL,Credit card (automatic),No,Yes,No,No internet service,0,56.07,559.38,No,30.38,No,No,Medium Risk
+CUST101412,Male,0,No,No,5,One year,Fiber optic,Bank transfer (automatic),Yes,No internet service,No,No,2,65.81,336.89,No,37.51,No,No,Medium Risk
+CUST100895,Female,1,No,Yes,47,Two year,DSL,Bank transfer (automatic),Yes,No internet service,No internet service,Yes,0,55.6,2621.71,No,0.61,No,No,Low Risk
+CUST100577,Female,0,No,No,28,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,No internet service,4,84.25,2457.54,Yes,91.86,Yes,Yes,High Risk
+CUST100556,Female,0,Yes,Yes,29,Two year,Fiber optic,Electronic check,Yes,Yes,No,No,1,70.38,2021.31,No,8.05,No,No,Low Risk
+CUST103865,Female,0,No,No,70,Month-to-month,DSL,Mailed check,Yes,No,No internet service,No internet service,2,57.11,4022.01,No,6.07,No,No,Low Risk
+CUST102812,Male,1,No,Yes,25,Month-to-month,DSL,Electronic check,Yes,Yes,No,No,3,50.52,1287.7,Yes,68.1,Yes,Yes,High Risk
+CUST103235,Female,0,Yes,No,38,One year,Fiber optic,Electronic check,Yes,No,No,No internet service,2,82.44,3257.51,Yes,35.21,No,Yes,Medium Risk
+CUST101989,Male,0,Yes,No,3,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes,No,Yes,1,61.12,117.07,Yes,46.12,No,Yes,Medium Risk
+CUST101089,Female,0,No,Yes,12,Two year,Fiber optic,Bank transfer (automatic),Yes,Yes,No,Yes,1,86.21,1000.88,No,10.26,No,No,Low Risk
+CUST104293,Male,0,Yes,No,72,One year,No,Electronic check,Yes,No,No internet service,No,1,26.94,2023.91,No,0.49,No,No,Low Risk
+CUST102109,Female,0,No,No,30,Month-to-month,DSL,Electronic check,No,No,No,Yes,1,47.26,1474.09,Yes,53.39,Yes,Yes,Medium Risk
+CUST101929,Male,0,No,Yes,45,One year,Fiber optic,Electronic check,No,No,No,No,2,65.21,2967.31,No,20.04,No,No,Low Risk
+CUST103441,Male,0,No,Yes,4,Month-to-month,No,Electronic check,Yes,No internet service,Yes,No,0,18.0,63.13,Yes,38.24,No,Yes,Medium Risk
+CUST102341,Male,1,No,No,37,Two year,Fiber optic,Electronic check,Yes,No,No internet service,No,0,82.66,3033.3,No,20.99,No,No,Low Risk
+CUST103368,Male,0,No,No,4,One year,No,Electronic check,No,No,No,No,2,39.81,217.6,Yes,55.92,Yes,Yes,Medium Risk
+CUST100169,Female,0,Yes,Yes,0,One year,Fiber optic,Electronic check,Yes,No internet service,No,No,2,78.59,0.0,Yes,77.57,Yes,Yes,High Risk
+CUST104606,Male,0,No,No,16,One year,DSL,Mailed check,No,Yes,No,Yes,2,51.99,867.76,No,14.51,No,No,Low Risk
+CUST103710,Female,0,Yes,No,28,Two year,DSL,Electronic check,Yes,No,No internet service,Yes,3,51.36,1451.17,Yes,14.25,No,Yes,Low Risk
+CUST104278,Male,1,No,No,15,Two year,No,Mailed check,No,Yes,No,Yes,2,18.0,265.86,No,4.73,No,No,Low Risk
+CUST101885,Female,0,No,No,57,Month-to-month,DSL,Mailed check,Yes,Yes,No,No internet service,4,45.1,2551.57,No,10.79,No,No,Low Risk
+CUST104149,Female,1,No,No,9,Month-to-month,Fiber optic,Mailed check,Yes,Yes,No,No internet service,1,83.52,747.36,No,84.39,Yes,No,High Risk
+CUST101452,Female,1,Yes,No,47,Two year,Fiber optic,Credit card (automatic),No,No internet service,No internet service,Yes,1,70.02,3227.37,No,2.35,No,No,Low Risk
+CUST100427,Female,1,No,No,3,Two year,Fiber optic,Mailed check,No,No,No,No,1,76.02,244.63,Yes,51.47,Yes,Yes,Medium Risk
+CUST102289,Male,0,Yes,No,17,Month-to-month,Fiber optic,Electronic check,No,No internet service,Yes,Yes,2,78.1,1362.64,No,85.92,Yes,No,High Risk
+CUST100616,Male,0,No,No,42,Month-to-month,Fiber optic,Electronic check,No,No,No internet service,No,2,89.54,3773.66,Yes,82.91,Yes,Yes,High Risk
+CUST101538,Female,0,No,No,72,One year,DSL,Bank transfer (automatic),No,No,Yes,No internet service,2,68.66,4845.18,No,0.59,No,No,Low Risk
+CUST104194,Male,0,Yes,No,69,Month-to-month,Fiber optic,Credit card (automatic),Yes,No internet service,No,No,3,71.22,4969.36,No,8.32,No,No,Low Risk
+CUST102372,Female,0,Yes,No,16,Month-to-month,No,Bank transfer (automatic),Yes,No,Yes,No internet service,1,19.87,329.66,No,7.75,No,No,Low Risk
+CUST102588,Female,0,No,No,2,Two year,No,Electronic check,Yes,No,No,Yes,3,52.18,85.3,Yes,57.54,Yes,Yes,Medium Risk
+CUST101223,Male,0,Yes,Yes,11,Month-to-month,Fiber optic,Bank transfer (automatic),No,No internet service,No,No,0,74.72,879.9,No,45.81,No,No,Medium Risk
+CUST102904,Female,0,No,No,32,Month-to-month,DSL,Electronic check,Yes,No internet service,Yes,No internet service,0,33.46,1080.92,No,18.08,No,No,Low Risk
+CUST101129,Female,0,No,No,46,One year,DSL,Mailed check,No,No,No,No internet service,1,45.17,2130.86,No,2.56,No,No,Low Risk
+CUST101643,Female,0,No,No,25,Month-to-month,Fiber optic,Electronic check,No,Yes,No internet service,Yes,3,80.75,2013.9,Yes,90.07,Yes,Yes,High Risk
+CUST100491,Male,0,Yes,No,34,Month-to-month,No,Electronic check,Yes,No,Yes,No internet service,0,23.13,865.09,No,9.24,No,No,Low Risk
+CUST100603,Female,0,Yes,No,24,One year,DSL,Credit card (automatic),No,Yes,No,No,2,37.59,836.43,No,2.48,No,No,Low Risk
+CUST102317,Male,0,Yes,No,43,Two year,No,Electronic check,Yes,No,Yes,No internet service,1,49.25,2133.12,No,1.78,No,No,Low Risk
+CUST101503,Male,0,Yes,No,72,Two year,Fiber optic,Mailed check,Yes,No,No internet service,No internet service,1,86.12,6219.03,No,0.89,No,No,Low Risk
+CUST104630,Male,0,No,No,42,Month-to-month,DSL,Electronic check,No,Yes,Yes,No,0,42.4,1801.6,No,9.48,No,No,Low Risk
+CUST103854,Female,1,No,No,20,Month-to-month,DSL,Mailed check,Yes,No,No,No internet service,0,44.87,855.26,No,37.96,No,No,Medium Risk
+CUST103327,Male,0,No,No,47,Month-to-month,No,Electronic check,Yes,Yes,No internet service,No internet service,2,32.14,1444.16,No,16.05,No,No,Low Risk
+CUST101658,Male,1,No,No,8,Month-to-month,Fiber optic,Electronic check,No,No,No,Yes,6,57.04,386.85,Yes,98.98,Yes,Yes,High Risk
+CUST101466,Female,0,No,No,9,Month-to-month,DSL,Mailed check,Yes,Yes,No,No,1,37.84,377.32,Yes,34.92,No,Yes,Medium Risk
+CUST104153,Male,0,Yes,No,20,Month-to-month,Fiber optic,Mailed check,Yes,No internet service,No,Yes,0,56.24,1110.11,No,36.22,No,No,Medium Risk
+CUST102767,Male,0,Yes,No,12,Month-to-month,Fiber optic,Credit card (automatic),Yes,No internet service,No internet service,No internet service,1,57.43,723.75,No,43.82,No,No,Medium Risk
+CUST100114,Male,0,Yes,No,19,One year,DSL,Credit card (automatic),No,No internet service,No,Yes,3,53.58,1099.32,Yes,12.6,No,Yes,Low Risk
+CUST101950,Female,0,Yes,No,19,Month-to-month,Fiber optic,Electronic check,No,No,No,No,2,63.43,1244.52,Yes,85.18,Yes,Yes,High Risk
+CUST100612,Female,0,No,Yes,19,Month-to-month,DSL,Credit card (automatic),Yes,No internet service,No,No,0,38.48,731.91,No,12.62,No,No,Low Risk
+CUST104099,Female,0,No,No,17,Two year,No,Mailed check,No,No,No,Yes,1,28.32,547.58,No,4.58,No,No,Low Risk
+CUST104727,Male,0,Yes,No,17,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,No internet service,Yes,1,58.02,888.99,No,40.18,No,No,Medium Risk
+CUST104728,Male,1,No,No,2,One year,No,Mailed check,No,No,No internet service,No,0,18.0,26.25,No,15.21,No,No,Low Risk
+CUST102238,Female,0,Yes,No,45,Month-to-month,DSL,Mailed check,No,No,No internet service,No,0,51.26,2325.16,No,7.92,No,No,Low Risk
+CUST101815,Male,0,Yes,No,35,Month-to-month,DSL,Electronic check,Yes,Yes,Yes,No,1,60.85,2151.42,No,20.51,No,No,Low Risk
+CUST104528,Female,0,Yes,No,44,One year,Fiber optic,Bank transfer (automatic),Yes,No internet service,No,No internet service,1,72.25,3172.88,No,3.36,No,No,Low Risk
+CUST102519,Male,1,Yes,No,27,One year,No,Bank transfer (automatic),Yes,No internet service,No,No,3,19.58,535.02,No,3.98,No,No,Low Risk
+CUST101988,Male,0,Yes,Yes,25,Month-to-month,DSL,Electronic check,Yes,Yes,No,Yes,1,53.81,1335.21,Yes,32.21,No,Yes,Medium Risk
+CUST104499,Male,0,Yes,Yes,55,Month-to-month,DSL,Bank transfer (automatic),Yes,No,No,No,1,75.76,4171.98,No,5.12,No,No,Low Risk
+CUST101797,Female,0,No,Yes,49,Month-to-month,DSL,Electronic check,Yes,No,No,No internet service,5,69.14,3495.1,Yes,70.97,Yes,Yes,High Risk
+CUST102958,Male,1,Yes,No,42,One year,DSL,Credit card (automatic),No,Yes,No,Yes,2,39.17,1721.06,No,1.32,No,No,Low Risk
+CUST104955,Male,1,Yes,No,3,Two year,Fiber optic,Credit card (automatic),No,No,No,No internet service,1,64.77,153.82,No,20.97,No,No,Low Risk
+CUST103204,Male,1,Yes,Yes,39,One year,DSL,Bank transfer (automatic),Yes,Yes,No,No,2,66.05,2567.85,No,2.41,No,No,Low Risk
+CUST102189,Male,1,No,No,13,Month-to-month,Fiber optic,Mailed check,No,No,No internet service,No,2,104.78,1308.97,Yes,96.03,Yes,Yes,High Risk
+CUST101736,Male,0,Yes,No,44,One year,Fiber optic,Bank transfer (automatic),Yes,No,No,Yes,3,81.49,3749.06,No,9.29,No,No,Low Risk
+CUST101244,Male,0,No,Yes,4,Month-to-month,DSL,Mailed check,Yes,No internet service,Yes,Yes,0,55.81,158.75,No,39.9,No,No,Medium Risk
+CUST104467,Female,0,Yes,Yes,10,One year,Fiber optic,Mailed check,Yes,No internet service,No,Yes,1,61.19,650.61,No,21.1,No,No,Low Risk
+CUST102902,Male,1,Yes,No,45,Month-to-month,DSL,Bank transfer (automatic),Yes,No,Yes,No,2,57.17,2555.23,No,8.72,No,No,Low Risk
+CUST103030,Male,0,No,Yes,63,Month-to-month,DSL,Credit card (automatic),No,No,No,No,0,59.91,3777.88,No,2.25,No,No,Low Risk
+CUST104386,Male,0,Yes,No,50,One year,DSL,Credit card (automatic),No,No,Yes,Yes,2,49.92,2439.51,No,0.79,No,No,Low Risk
+CUST103116,Male,1,No,No,18,Two year,Fiber optic,Electronic check,Yes,Yes,No,Yes,3,85.53,1440.86,Yes,63.5,Yes,Yes,High Risk
+CUST101338,Female,1,No,No,8,Month-to-month,Fiber optic,Mailed check,No,Yes,No internet service,No,2,63.03,529.83,No,83.9,Yes,No,High Risk
+CUST104825,Female,0,No,No,17,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No,No,No,2,77.22,1343.16,Yes,70.94,Yes,Yes,High Risk
+CUST102619,Male,0,No,No,5,Two year,No,Credit card (automatic),Yes,No,No internet service,Yes,0,19.6,88.88,No,2.23,No,No,Low Risk
+CUST102863,Male,0,No,Yes,72,Two year,No,Electronic check,Yes,Yes,No internet service,Yes,0,46.33,3324.1,No,0.2,No,No,Low Risk
+CUST102578,Female,0,Yes,Yes,41,Month-to-month,Fiber optic,Electronic check,Yes,No internet service,No internet service,No internet service,2,77.57,3115.9,Yes,61.68,Yes,Yes,High Risk
+CUST102382,Female,0,Yes,No,27,Month-to-month,No,Mailed check,Yes,Yes,No,Yes,3,46.25,1243.97,No,28.88,No,No,Low Risk
+CUST100381,Female,1,Yes,No,15,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,No,0,69.83,988.45,Yes,76.36,Yes,Yes,High Risk
+CUST103600,Male,0,Yes,No,4,One year,DSL,Bank transfer (automatic),No,Yes,No,Yes,2,73.65,341.51,Yes,20.34,No,Yes,Low Risk
+CUST103169,Female,0,Yes,Yes,40,One year,DSL,Bank transfer (automatic),No,No internet service,No,Yes,2,71.75,2833.95,No,3.74,No,No,Low Risk
+CUST104388,Male,0,No,Yes,40,Month-to-month,No,Credit card (automatic),No,No,No,No,1,18.0,681.0,No,3.63,No,No,Low Risk
+CUST104169,Female,0,Yes,No,28,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes,Yes,0,90.08,2362.37,Yes,56.18,Yes,Yes,Medium Risk
+CUST104896,Male,0,No,No,40,Month-to-month,No,Electronic check,No,No internet service,No internet service,No,0,23.37,894.55,No,16.57,No,No,Low Risk
+CUST100237,Female,0,Yes,No,40,One year,Fiber optic,Electronic check,Yes,No,Yes,No,3,69.63,2792.55,No,22.09,No,No,Low Risk
+CUST100587,Male,0,No,No,22,Two year,No,Bank transfer (automatic),No,No,No,No,2,18.0,346.49,No,1.85,No,No,Low Risk
+CUST104108,Female,1,Yes,Yes,20,Month-to-month,DSL,Electronic check,Yes,No internet service,No,Yes,0,74.96,1479.06,No,70.56,Yes,No,High Risk
+CUST102433,Male,0,Yes,No,20,Two year,Fiber optic,Bank transfer (automatic),Yes,No,Yes,No,3,61.56,1208.2,No,5.89,No,No,Low Risk
+CUST103381,Female,0,Yes,No,72,Month-to-month,DSL,Credit card (automatic),Yes,Yes,No internet service,Yes,2,37.78,2703.69,No,0.64,No,No,Low Risk
+CUST104780,Male,0,No,No,52,One year,Fiber optic,Electronic check,Yes,No,No internet service,No,2,83.41,4362.14,No,25.43,No,No,Low Risk
+CUST104137,Female,0,No,Yes,72,Two year,Fiber optic,Electronic check,Yes,No internet service,No internet service,No internet service,2,79.45,5721.87,No,3.37,No,No,Low Risk
+CUST101596,Female,0,Yes,No,11,One year,DSL,Mailed check,Yes,No internet service,No,Yes,4,66.91,756.3,No,46.47,No,No,Medium Risk
+CUST102082,Male,0,Yes,No,9,Month-to-month,No,Credit card (automatic),Yes,No internet service,No,Yes,0,29.1,305.27,No,16.02,No,No,Low Risk
+CUST101714,Female,0,Yes,No,18,One year,Fiber optic,Credit card (automatic),Yes,No,No,No,1,72.95,1359.23,No,14.7,No,No,Low Risk
+CUST101342,Male,0,Yes,Yes,48,One year,No,Electronic check,No,No internet service,No,Yes,0,18.0,867.38,No,0.97,No,No,Low Risk
+CUST104350,Female,0,Yes,No,15,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No,No,No,2,78.69,1086.17,Yes,66.18,Yes,Yes,High Risk
+CUST103703,Female,0,No,No,32,Two year,Fiber optic,Mailed check,Yes,No,Yes,Yes,3,88.33,2833.21,No,17.68,No,No,Low Risk
+CUST104247,Male,0,Yes,Yes,23,Month-to-month,DSL,Mailed check,Yes,No,Yes,No,2,72.97,1697.83,No,35.86,No,No,Medium Risk
+CUST101569,Female,1,Yes,Yes,20,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No internet service,Yes,No,1,66.27,1381.3,No,32.13,No,No,Medium Risk
+CUST100516,Female,0,Yes,No,12,Two year,DSL,Electronic check,Yes,No,No,No,4,41.0,533.92,Yes,31.69,No,Yes,Medium Risk
+CUST103585,Male,0,Yes,No,24,Month-to-month,Fiber optic,Credit card (automatic),No,No internet service,Yes,No,0,71.76,1750.52,No,22.42,No,No,Low Risk
+CUST104304,Male,0,No,No,31,One year,DSL,Mailed check,Yes,No,No,Yes,2,85.96,2688.62,No,23.61,No,No,Low Risk
+CUST104789,Male,1,Yes,No,19,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,No,0,78.36,1549.68,No,26.51,No,No,Low Risk
+CUST100906,Female,1,Yes,No,15,One year,DSL,Mailed check,No,Yes,No internet service,No internet service,4,45.38,697.1,No,26.25,No,No,Low Risk
+CUST104986,Male,0,Yes,No,12,Month-to-month,DSL,Electronic check,Yes,Yes,Yes,Yes,2,57.02,649.41,Yes,57.72,Yes,Yes,Medium Risk
+CUST102133,Male,1,No,No,5,One year,DSL,Electronic check,Yes,No internet service,No,Yes,2,60.74,289.33,No,73.3,Yes,No,High Risk
+CUST104329,Female,0,Yes,No,8,Month-to-month,Fiber optic,Electronic check,Yes,No,No,Yes,0,61.05,494.02,Yes,79.93,Yes,Yes,High Risk
+CUST102124,Female,1,Yes,No,28,One year,No,Electronic check,Yes,No,No internet service,No,0,18.0,505.77,No,5.71,No,No,Low Risk
+CUST102314,Male,0,No,No,17,Month-to-month,DSL,Electronic check,No,Yes,No,Yes,0,45.16,741.66,Yes,46.58,No,Yes,Medium Risk
+CUST103582,Female,0,Yes,Yes,45,One year,Fiber optic,Electronic check,No,Yes,No,No internet service,3,101.83,4633.29,Yes,34.96,No,Yes,Medium Risk
+CUST101202,Female,0,Yes,No,16,Month-to-month,No,Bank transfer (automatic),No,No internet service,No,No,3,37.59,654.4,No,39.05,No,No,Medium Risk
+CUST104000,Female,0,Yes,No,14,One year,No,Mailed check,No,No,No,No,1,33.33,488.8,No,8.81,No,No,Low Risk
+CUST102062,Male,1,No,No,49,Month-to-month,Fiber optic,Electronic check,Yes,No,No internet service,Yes,1,61.75,3086.72,No,52.89,Yes,No,Medium Risk
+CUST101367,Female,0,No,Yes,2,Month-to-month,DSL,Bank transfer (automatic),Yes,No,Yes,Yes,2,61.63,112.63,Yes,53.03,Yes,Yes,Medium Risk
+CUST104621,Male,0,Yes,No,21,Two year,Fiber optic,Bank transfer (automatic),No,No,No internet service,Yes,1,76.06,1596.94,No,7.64,No,No,Low Risk
+CUST103782,Female,0,No,No,5,One year,No,Bank transfer (automatic),No,No,No internet service,No,1,18.0,105.55,No,7.46,No,No,Low Risk
+CUST102089,Male,0,No,Yes,27,Two year,No,Bank transfer (automatic),No,No internet service,No,No,4,45.13,1145.21,No,5.44,No,No,Low Risk
+CUST101850,Male,0,Yes,Yes,24,Month-to-month,Fiber optic,Credit card (automatic),No,No,No internet service,Yes,7,67.57,1605.41,Yes,84.05,Yes,Yes,High Risk
+CUST102887,Female,1,No,Yes,58,Two year,DSL,Bank transfer (automatic),No,No,No internet service,No,2,63.67,3667.23,No,1.06,No,No,Low Risk
+CUST104471,Female,0,Yes,No,41,Two year,Fiber optic,Mailed check,No,Yes,No,Yes,2,79.0,3302.89,No,4.54,No,No,Low Risk
+CUST100713,Female,0,No,No,14,Month-to-month,DSL,Electronic check,No,No internet service,No,No,1,56.01,818.82,Yes,79.89,Yes,Yes,High Risk
+CUST103576,Female,0,Yes,Yes,8,Two year,DSL,Bank transfer (automatic),Yes,No,Yes,No internet service,2,79.54,680.08,No,7.58,No,No,Low Risk
+CUST104196,Male,0,Yes,No,64,Month-to-month,DSL,Electronic check,Yes,No,Yes,No,2,62.31,3992.0,No,10.86,No,No,Low Risk
+CUST102977,Male,0,Yes,No,26,One year,Fiber optic,Mailed check,No,No internet service,No,Yes,1,82.26,2108.23,No,22.87,No,No,Low Risk
+CUST104125,Male,0,Yes,No,44,Month-to-month,Fiber optic,Credit card (automatic),Yes,No,Yes,No,1,79.14,3558.08,No,12.57,No,No,Low Risk
+CUST104892,Female,0,No,No,28,Month-to-month,No,Mailed check,No,Yes,No internet service,No internet service,3,22.64,617.42,No,22.95,No,No,Low Risk
+CUST100588,Female,0,Yes,No,11,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes,1,63.5,639.32,Yes,79.23,Yes,Yes,High Risk
+CUST102955,Male,0,Yes,No,30,Two year,DSL,Electronic check,Yes,Yes,Yes,No,1,68.74,2108.94,No,3.78,No,No,Low Risk
+CUST104116,Male,0,Yes,Yes,70,One year,DSL,Bank transfer (automatic),Yes,No,Yes,Yes,2,60.52,4178.05,No,0.22,No,No,Low Risk
+CUST103318,Male,1,Yes,Yes,8,Month-to-month,No,Bank transfer (automatic),Yes,Yes,Yes,No internet service,2,29.5,164.36,No,15.51,No,No,Low Risk
+CUST100931,Female,1,No,No,16,One year,No,Electronic check,Yes,No,No,Yes,0,26.47,421.72,No,19.9,No,No,Low Risk
+CUST104716,Female,0,No,Yes,25,Month-to-month,No,Credit card (automatic),No,Yes,No,Yes,3,33.74,912.58,No,18.12,No,No,Low Risk
+CUST100584,Female,0,No,Yes,3,One year,No,Credit card (automatic),No,Yes,Yes,No,2,29.83,126.43,No,5.25,No,No,Low Risk
+CUST100857,Male,0,No,No,54,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No,No,No internet service,0,82.87,4534.04,No,12.39,No,No,Low Risk
+CUST100993,Female,1,No,No,41,Month-to-month,DSL,Bank transfer (automatic),Yes,No,No,No internet service,3,68.53,2761.86,No,40.13,No,No,Medium Risk
+CUST102229,Female,0,Yes,No,21,Two year,Fiber optic,Bank transfer (automatic),Yes,No internet service,No,Yes,2,67.34,1444.14,No,7.7,No,No,Low Risk
+CUST102368,Male,0,No,Yes,34,Month-to-month,Fiber optic,Mailed check,No,No internet service,No,Yes,0,84.5,2910.77,No,45.17,No,No,Medium Risk
+CUST100968,Female,0,Yes,Yes,19,Month-to-month,Fiber optic,Mailed check,Yes,No,No internet service,No,1,60.51,1097.63,No,45.14,No,No,Medium Risk
+CUST101050,Female,0,No,No,34,Two year,Fiber optic,Credit card (automatic),No,Yes,No,No,0,65.26,2256.52,No,1.61,No,No,Low Risk
+CUST103205,Female,0,No,No,45,One year,No,Bank transfer (automatic),No,No,No internet service,No,4,31.27,1477.4,No,3.38,No,No,Low Risk
+CUST101349,Male,0,Yes,Yes,67,One year,No,Bank transfer (automatic),Yes,Yes,No internet service,Yes,2,30.46,1995.86,No,0.1,No,No,Low Risk
+CUST104095,Male,0,No,Yes,42,Month-to-month,Fiber optic,Electronic check,Yes,No,No,No,2,70.41,2915.51,No,62.47,Yes,No,High Risk
+CUST103968,Female,1,Yes,No,62,One year,Fiber optic,Credit card (automatic),Yes,Yes,No,No,0,62.65,3852.14,No,0.53,No,No,Low Risk
+CUST103960,Male,0,Yes,Yes,51,Month-to-month,No,Bank transfer (automatic),No,Yes,No internet service,Yes,4,34.46,1772.89,No,4.14,No,No,Low Risk
+CUST101922,Female,0,No,No,34,One year,Fiber optic,Mailed check,No,Yes,No,Yes,4,59.65,2067.21,Yes,20.61,No,Yes,Low Risk
+CUST101322,Male,0,Yes,No,24,Two year,DSL,Mailed check,Yes,No,Yes,Yes,1,75.17,1743.75,No,4.14,No,No,Low Risk
+CUST104171,Male,0,Yes,No,27,One year,DSL,Bank transfer (automatic),No,No,No internet service,Yes,2,51.78,1414.16,No,5.16,No,No,Low Risk
+CUST103108,Male,0,No,No,17,Month-to-month,DSL,Mailed check,No,Yes,No internet service,No,0,38.71,667.6,Yes,20.18,No,Yes,Low Risk
+CUST103471,Male,0,No,Yes,7,Month-to-month,DSL,Electronic check,No,Yes,No internet service,No internet service,0,43.99,235.84,No,53.9,Yes,No,Medium Risk
+CUST101585,Female,0,Yes,No,19,One year,Fiber optic,Electronic check,Yes,Yes,No,No,1,84.47,1632.06,Yes,40.88,No,Yes,Medium Risk
+CUST103856,Female,0,Yes,Yes,19,One year,Fiber optic,Mailed check,No,Yes,Yes,Yes,2,82.15,1554.39,No,15.96,No,No,Low Risk
+CUST101152,Female,0,Yes,Yes,5,Two year,No,Bank transfer (automatic),Yes,Yes,No,No,1,36.11,182.51,No,1.74,No,No,Low Risk
+CUST102716,Female,0,No,No,59,One year,No,Mailed check,Yes,No,No,No,3,30.98,1777.9,No,1.53,No,No,Low Risk
+CUST100657,Male,0,Yes,Yes,21,Two year,DSL,Mailed check,No,No,No,Yes,2,64.02,1393.53,No,7.36,No,No,Low Risk
+CUST103668,Female,0,No,No,8,Month-to-month,DSL,Mailed check,No,No,No,Yes,2,69.28,474.73,Yes,82.48,Yes,Yes,High Risk
+CUST103593,Male,0,Yes,No,47,Month-to-month,DSL,Mailed check,Yes,Yes,No internet service,No,1,47.84,2231.11,No,4.56,No,No,Low Risk
+CUST104233,Female,0,Yes,No,9,Two year,No,Credit card (automatic),No,No,No,No,1,34.37,236.62,No,3.41,No,No,Low Risk
+CUST104675,Male,0,No,No,8,One year,Fiber optic,Bank transfer (automatic),Yes,No,No,No,1,68.31,417.87,No,26.57,No,No,Low Risk
+CUST102888,Male,0,No,No,6,Two year,DSL,Credit card (automatic),Yes,No internet service,No internet service,Yes,1,63.67,361.95,Yes,10.37,No,Yes,Low Risk
+CUST102535,Male,0,Yes,No,28,Two year,DSL,Bank transfer (automatic),No,No internet service,No,No internet service,1,67.61,1875.62,No,2.64,No,No,Low Risk
+CUST101765,Female,0,Yes,Yes,24,Month-to-month,No,Electronic check,No,No internet service,Yes,No internet service,1,28.52,680.31,No,24.02,No,No,Low Risk
+CUST103190,Female,0,No,Yes,44,One year,No,Credit card (automatic),Yes,Yes,No,No internet service,4,27.98,1277.94,No,1.29,No,No,Low Risk
+CUST104486,Female,0,Yes,Yes,24,Month-to-month,No,Electronic check,No,No internet service,Yes,No internet service,1,34.87,889.04,No,28.07,No,No,Low Risk
+CUST102361,Female,0,No,No,18,Month-to-month,No,Credit card (automatic),Yes,No,No,Yes,0,51.84,962.76,No,26.04,No,No,Low Risk
+CUST101645,Male,0,Yes,No,8,Month-to-month,DSL,Credit card (automatic),No,No internet service,No,No,3,75.51,713.53,Yes,75.44,Yes,Yes,High Risk
+CUST101905,Female,0,Yes,Yes,14,Month-to-month,DSL,Bank transfer (automatic),Yes,Yes,Yes,No,1,51.11,813.67,No,9.39,No,No,Low Risk
+CUST102768,Male,1,Yes,Yes,72,One year,Fiber optic,Credit card (automatic),Yes,Yes,Yes,No,1,75.63,5432.64,No,0.3,No,No,Low Risk
+CUST103796,Male,0,Yes,Yes,19,Two year,Fiber optic,Mailed check,No,No,No internet service,No,2,65.01,1308.41,No,12.15,No,No,Low Risk
+CUST100935,Male,0,Yes,No,18,One year,Fiber optic,Electronic check,No,No internet service,Yes,Yes,1,73.52,1326.39,No,37.7,No,No,Medium Risk
+CUST101688,Male,0,No,Yes,12,One year,No,Mailed check,Yes,No internet service,No internet service,No internet service,3,18.0,282.47,No,11.95,No,No,Low Risk
+CUST102932,Male,0,No,No,22,One year,Fiber optic,Mailed check,No,Yes,No,Yes,3,74.16,1702.46,No,35.43,No,No,Medium Risk
+CUST103814,Male,0,No,Yes,7,Month-to-month,DSL,Bank transfer (automatic),No,No,Yes,Yes,4,70.42,572.92,Yes,73.43,Yes,Yes,High Risk
+CUST104089,Female,0,No,No,34,One year,No,Electronic check,Yes,No,Yes,No internet service,0,18.0,518.18,No,2.33,No,No,Low Risk
+CUST102356,Female,0,Yes,No,43,Two year,Fiber optic,Bank transfer (automatic),Yes,Yes,No internet service,Yes,3,77.51,3385.77,No,2.67,No,No,Low Risk
+CUST102160,Male,0,No,No,40,Month-to-month,DSL,Mailed check,Yes,Yes,Yes,No,2,69.41,2786.04,Yes,16.69,No,Yes,Low Risk
+CUST100719,Female,0,No,No,30,One year,DSL,Bank transfer (automatic),No,No,No,No,1,48.31,1460.07,No,3.96,No,No,Low Risk
+CUST101926,Male,0,Yes,No,3,One year,Fiber optic,Credit card (automatic),Yes,No,No internet service,Yes,2,86.58,278.87,Yes,48.19,No,Yes,Medium Risk
+CUST102071,Male,0,Yes,No,16,Month-to-month,No,Credit card (automatic),Yes,No internet service,No,No,1,38.52,598.3,No,19.84,No,No,Low Risk
+CUST100789,Male,0,No,Yes,35,Month-to-month,No,Electronic check,Yes,No,No,No,0,36.34,1360.85,No,21.53,No,No,Low Risk
+CUST104420,Female,1,No,No,9,Month-to-month,No,Electronic check,Yes,No,Yes,No internet service,1,28.23,205.24,No,66.54,Yes,No,High Risk
+CUST103781,Male,0,Yes,No,42,One year,DSL,Credit card (automatic),Yes,No,No,No,0,67.44,2875.48,No,1.43,No,No,Low Risk
+CUST104412,Male,0,Yes,No,18,Month-to-month,Fiber optic,Electronic check,No,No internet service,No,Yes,2,76.19,1332.15,Yes,89.85,Yes,Yes,High Risk
+CUST104070,Male,0,Yes,No,38,Month-to-month,Fiber optic,Credit card (automatic),No,No,No,Yes,0,68.03,2595.38,No,15.53,No,No,Low Risk
+CUST103225,Female,0,Yes,Yes,10,Month-to-month,No,Credit card (automatic),No,Yes,No,No,3,18.0,202.53,No,18.45,No,No,Low Risk
+CUST101481,Male,0,No,No,31,Month-to-month,Fiber optic,Electronic check,Yes,No internet service,No,No,4,59.26,1869.96,Yes,86.59,Yes,Yes,High Risk
+CUST103752,Male,0,No,Yes,10,Month-to-month,Fiber optic,Electronic check,No,No,Yes,No internet service,0,76.14,697.87,Yes,81.17,Yes,Yes,High Risk
+CUST102540,Male,0,No,No,36,One year,No,Mailed check,No,No internet service,No,No internet service,2,31.46,1200.08,No,4.67,No,No,Low Risk
+CUST104696,Male,0,No,Yes,28,Two year,Fiber optic,Credit card (automatic),Yes,Yes,No internet service,Yes,2,70.76,1938.95,No,3.77,No,No,Low Risk
+CUST100073,Female,0,No,Yes,16,Month-to-month,DSL,Electronic check,No,No,No,Yes,0,46.16,791.0,Yes,57.08,Yes,Yes,Medium Risk
+CUST100309,Female,0,Yes,No,72,Month-to-month,No,Mailed check,Yes,No,No internet service,No,0,26.94,1931.65,No,0.68,No,No,Low Risk
+CUST102432,Female,1,Yes,No,6,One year,No,Electronic check,Yes,No,No internet service,Yes,1,18.0,108.73,No,26.38,No,No,Low Risk
+CUST100031,Male,0,Yes,No,27,Two year,DSL,Credit card (automatic),Yes,Yes,No,Yes,0,59.29,1521.62,No,0.75,No,No,Low Risk
+CUST103946,Male,1,No,No,17,Month-to-month,DSL,Mailed check,Yes,No,No,No,0,49.16,795.47,Yes,44.57,No,Yes,Medium Risk
+CUST103109,Female,0,No,No,40,Month-to-month,Fiber optic,Electronic check,Yes,No,No internet service,Yes,2,69.04,2750.56,No,71.26,Yes,No,High Risk
+CUST100893,Male,0,No,No,19,One year,Fiber optic,Mailed check,No,No,Yes,No,1,74.26,1453.39,No,23.41,No,No,Low Risk
+CUST102688,Male,1,Yes,Yes,18,Two year,Fiber optic,Bank transfer (automatic),Yes,No,No,Yes,1,84.42,1532.07,No,11.63,No,No,Low Risk
+CUST100379,Male,0,Yes,Yes,19,Month-to-month,DSL,Bank transfer (automatic),Yes,No,No internet service,No internet service,3,39.64,748.94,No,23.93,No,No,Low Risk
+CUST104771,Female,1,Yes,No,40,Month-to-month,DSL,Mailed check,Yes,No,No,No,0,49.93,2053.23,Yes,12.84,No,Yes,Low Risk
+CUST102162,Male,0,Yes,No,34,Month-to-month,Fiber optic,Credit card (automatic),No,Yes,Yes,No,4,67.69,2300.88,Yes,28.59,No,Yes,Low Risk
+CUST104314,Male,0,Yes,No,51,One year,Fiber optic,Mailed check,Yes,Yes,No internet service,Yes,1,61.54,3180.2,No,1.64,No,No,Low Risk
+CUST104984,Female,0,No,No,51,Month-to-month,Fiber optic,Electronic check,Yes,No,No,Yes,2,62.01,3132.66,Yes,50.28,Yes,Yes,Medium Risk
+CUST104226,Male,0,Yes,Yes,16,Two year,Fiber optic,Credit card (automatic),Yes,No,Yes,No,0,81.96,1194.61,No,3.52,No,No,Low Risk
+CUST100539,Female,0,No,No,13,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No,Yes,No,1,91.95,1138.62,Yes,66.87,Yes,Yes,High Risk
+CUST101877,Female,0,Yes,No,23,One year,No,Bank transfer (automatic),Yes,Yes,No,No,2,27.49,732.76,No,1.79,No,No,Low Risk
+CUST104059,Male,1,No,No,9,Two year,Fiber optic,Electronic check,No,No,No,No internet service,2,81.53,757.24,Yes,77.76,Yes,Yes,High Risk
+CUST100002,Male,0,Yes,Yes,69,Month-to-month,DSL,Mailed check,Yes,No,Yes,Yes,1,66.78,4663.94,No,1.94,No,No,Low Risk
+CUST102316,Female,1,No,No,12,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes,No,1,82.66,1041.92,No,89.73,Yes,No,High Risk
+CUST103069,Female,1,No,No,29,Month-to-month,Fiber optic,Electronic check,Yes,No,No internet service,No internet service,0,92.09,2650.34,Yes,87.57,Yes,Yes,High Risk
+CUST100212,Male,0,Yes,No,17,Two year,Fiber optic,Credit card (automatic),No,No internet service,No,No,1,81.48,1347.04,No,11.29,No,No,Low Risk
+CUST101846,Female,0,No,Yes,23,One year,DSL,Bank transfer (automatic),No,No internet service,Yes,Yes,4,68.61,1647.59,No,16.12,No,No,Low Risk
+CUST104435,Male,0,Yes,No,26,Month-to-month,DSL,Mailed check,Yes,No,No,No,2,67.34,1734.36,Yes,45.42,No,Yes,Medium Risk
+CUST100818,Female,0,No,No,0,Month-to-month,Fiber optic,Credit card (automatic),Yes,No,No internet service,No,1,68.43,0.0,Yes,77.73,Yes,Yes,High Risk
+CUST101664,Male,0,No,No,27,One year,No,Electronic check,Yes,Yes,No,No,0,31.83,901.92,No,5.06,No,No,Low Risk
+CUST102989,Female,1,Yes,No,41,One year,No,Electronic check,No,Yes,No,Yes,3,27.72,1192.8,No,7.9,No,No,Low Risk
+CUST101164,Male,0,No,No,13,Month-to-month,Fiber optic,Credit card (automatic),Yes,Yes,No,No,0,75.9,982.82,Yes,43.14,No,Yes,Medium Risk
+CUST104866,Male,0,No,No,71,Month-to-month,Fiber optic,Electronic check,No,Yes,Yes,Yes,3,86.06,6141.23,No,29.45,No,No,Low Risk
+CUST100290,Male,0,No,Yes,13,Two year,DSL,Mailed check,No,No,No,Yes,1,53.85,714.21,No,8.3,No,No,Low Risk
+CUST100366,Female,0,Yes,No,8,One year,Fiber optic,Electronic check,No,No,No,No internet service,1,76.5,622.38,No,67.35,Yes,No,High Risk
+CUST103810,Female,0,Yes,No,7,Month-to-month,No,Electronic check,Yes,No,No,Yes,1,37.64,352.97,Yes,69.14,Yes,Yes,High Risk
+CUST103536,Male,0,No,No,36,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No internet service,No,No,0,84.93,3060.24,No,30.42,No,No,Medium Risk
+CUST103038,Male,0,No,No,38,One year,Fiber optic,Credit card (automatic),Yes,No internet service,No internet service,No,1,67.69,2560.51,No,5.76,No,No,Low Risk
+CUST102487,Female,0,Yes,No,13,Month-to-month,DSL,Mailed check,No,No internet service,No internet service,No,3,74.74,948.78,Yes,80.83,Yes,Yes,High Risk
+CUST104546,Female,0,Yes,No,71,Month-to-month,Fiber optic,Credit card (automatic),Yes,No,No,No,0,80.39,5697.91,No,3.38,No,No,Low Risk
+CUST100629,Male,0,Yes,Yes,19,Month-to-month,Fiber optic,Credit card (automatic),Yes,No,No,Yes,2,94.81,1867.87,Yes,66.63,Yes,Yes,High Risk
+CUST101511,Male,0,Yes,No,9,Month-to-month,No,Electronic check,Yes,No internet service,No,No,2,21.17,299.21,Yes,62.22,Yes,Yes,High Risk
+CUST103094,Male,0,No,Yes,31,Month-to-month,DSL,Mailed check,Yes,No,Yes,No internet service,5,54.09,1677.82,Yes,47.46,No,Yes,Medium Risk
+CUST103466,Male,1,Yes,No,17,One year,Fiber optic,Credit card (automatic),Yes,No,No internet service,No internet service,3,60.94,967.46,No,28.82,No,No,Low Risk
+CUST100012,Male,0,Yes,Yes,29,Month-to-month,Fiber optic,Electronic check,Yes,No,No,No,1,77.24,2161.07,Yes,67.41,Yes,Yes,High Risk
+CUST104592,Female,0,Yes,No,53,Month-to-month,Fiber optic,Electronic check,Yes,Yes,No,No,2,90.48,4893.0,Yes,48.42,No,Yes,Medium Risk
+CUST100672,Female,0,No,No,28,Month-to-month,DSL,Electronic check,No,No,No,Yes,3,58.39,1567.68,Yes,80.51,Yes,Yes,High Risk
+CUST101392,Female,0,No,Yes,13,One year,No,Mailed check,No,No,No,No,1,25.03,464.9,No,8.15,No,No,Low Risk
+CUST104871,Male,0,Yes,No,26,Month-to-month,Fiber optic,Credit card (automatic),Yes,No internet service,No,Yes,0,90.15,2393.76,No,39.98,No,No,Medium Risk
+CUST102585,Female,0,No,Yes,72,Two year,DSL,Credit card (automatic),Yes,Yes,Yes,No,1,72.17,5181.83,No,0.08,No,No,Low Risk
+CUST104306,Female,0,No,No,32,Two year,DSL,Credit card (automatic),No,Yes,No internet service,No,2,58.28,1873.47,No,2.11,No,No,Low Risk
+CUST104036,Female,0,No,No,17,Month-to-month,No,Credit card (automatic),Yes,No,No internet service,Yes,1,27.53,494.79,No,20.23,No,No,Low Risk
+CUST102805,Male,0,No,Yes,8,One year,Fiber optic,Credit card (automatic),Yes,No,No,Yes,1,76.06,666.09,Yes,27.18,No,Yes,Low Risk
+CUST103859,Male,0,No,No,31,Month-to-month,Fiber optic,Mailed check,No,Yes,No,Yes,4,64.91,2035.6,No,65.87,Yes,No,High Risk
+CUST103237,Male,0,No,No,16,Month-to-month,No,Bank transfer (automatic),Yes,Yes,Yes,Yes,2,18.0,359.23,Yes,8.84,No,Yes,Low Risk
+CUST103860,Female,0,No,No,23,One year,No,Electronic check,Yes,Yes,No internet service,No,2,25.85,626.42,No,11.58,No,No,Low Risk
+CUST100830,Male,0,No,Yes,14,Month-to-month,Fiber optic,Credit card (automatic),Yes,No internet service,No internet service,No internet service,0,70.36,901.97,No,43.99,No,No,Medium Risk
+CUST104807,Male,0,No,No,43,Month-to-month,DSL,Credit card (automatic),Yes,No internet service,No,No internet service,2,46.64,1950.49,Yes,10.78,No,Yes,Low Risk
+CUST102803,Female,1,No,No,7,Two year,No,Electronic check,Yes,Yes,No internet service,No,1,18.12,144.05,No,11.92,No,No,Low Risk
+CUST104001,Male,0,No,No,60,Month-to-month,DSL,Electronic check,Yes,No,Yes,Yes,0,43.55,2639.16,No,5.12,No,No,Low Risk
+CUST102002,Female,0,No,Yes,20,Month-to-month,No,Credit card (automatic),Yes,No,No,No internet service,0,33.46,603.83,Yes,11.47,No,Yes,Low Risk
+CUST102457,Male,0,No,No,18,Two year,Fiber optic,Mailed check,Yes,Yes,No,Yes,1,72.58,1322.16,No,10.72,No,No,Low Risk
+CUST102465,Male,0,No,No,21,One year,Fiber optic,Bank transfer (automatic),Yes,No,Yes,Yes,1,87.37,1729.78,No,16.01,No,No,Low Risk
+CUST103443,Female,1,Yes,Yes,27,Two year,DSL,Mailed check,Yes,No internet service,No,No internet service,0,70.61,1866.84,No,4.06,No,No,Low Risk
+CUST104872,Male,0,Yes,Yes,26,Two year,Fiber optic,Electronic check,No,Yes,No,No internet service,1,71.67,1800.97,Yes,10.84,No,Yes,Low Risk
+CUST104810,Male,1,No,No,28,Month-to-month,Fiber optic,Mailed check,No,No internet service,Yes,No internet service,1,68.74,1977.95,No,55.89,Yes,No,Medium Risk
+CUST104454,Male,0,No,No,54,One year,DSL,Mailed check,Yes,No,Yes,Yes,0,52.36,2894.53,No,0.69,No,No,Low Risk
+CUST100752,Female,0,Yes,No,20,One year,Fiber optic,Bank transfer (automatic),No,No,Yes,Yes,0,50.59,1062.82,No,3.35,No,No,Low Risk
+CUST101209,Male,1,No,No,49,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes,No internet service,Yes,0,73.69,3522.96,No,11.16,No,No,Low Risk
+CUST101567,Female,1,No,No,33,One year,No,Electronic check,No,No internet service,No,Yes,0,46.88,1548.86,No,16.71,No,No,Low Risk
+CUST103118,Female,0,Yes,No,34,Month-to-month,No,Bank transfer (automatic),No,Yes,No,Yes,3,41.66,1389.05,No,12.48,No,No,Low Risk
+CUST104064,Male,0,No,No,9,Month-to-month,Fiber optic,Mailed check,No,No,No,Yes,3,74.78,690.41,Yes,91.93,Yes,Yes,High Risk
+CUST101024,Female,0,No,No,43,Month-to-month,DSL,Credit card (automatic),No,No internet service,Yes,Yes,2,58.1,2493.56,No,11.86,No,No,Low Risk
+CUST100824,Female,0,Yes,No,17,Month-to-month,No,Electronic check,No,Yes,No,No,0,42.76,637.45,No,39.14,No,No,Medium Risk
+CUST101529,Female,0,Yes,Yes,15,Month-to-month,Fiber optic,Credit card (automatic),Yes,No,No,No,0,94.0,1338.88,No,53.27,Yes,No,Medium Risk
+CUST104669,Female,0,Yes,Yes,5,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes,No,Yes,3,54.74,196.0,No,52.6,Yes,No,Medium Risk
+CUST101029,Male,0,No,Yes,12,Month-to-month,Fiber optic,Credit card (automatic),Yes,Yes,No internet service,Yes,2,60.31,722.31,No,45.66,No,No,Medium Risk
+CUST100882,Male,0,No,No,12,Month-to-month,DSL,Electronic check,No,Yes,No,No,3,59.35,809.68,Yes,86.06,Yes,Yes,High Risk
+CUST103457,Male,0,No,No,51,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No internet service,Yes,No internet service,0,73.54,3726.08,No,6.93,No,No,Low Risk
+CUST104235,Female,0,No,No,12,Two year,Fiber optic,Bank transfer (automatic),No,Yes,No,No internet service,1,73.33,906.83,No,10.28,No,No,Low Risk
+CUST103163,Male,0,Yes,No,37,One year,No,Mailed check,No,No,No,Yes,2,39.29,1477.35,No,3.96,No,No,Low Risk
+CUST101592,Female,0,No,No,51,Two year,DSL,Electronic check,No,Yes,No,No internet service,3,41.22,2128.59,No,2.81,No,No,Low Risk
+CUST100272,Female,0,Yes,Yes,19,One year,DSL,Mailed check,No,Yes,Yes,Yes,2,56.28,1070.11,No,5.15,No,No,Low Risk
+CUST104321,Male,0,No,No,25,Month-to-month,Fiber optic,Mailed check,Yes,No,No internet service,No,1,71.76,1808.03,No,60.22,Yes,No,High Risk
+CUST100782,Female,1,No,No,28,Month-to-month,DSL,Credit card (automatic),Yes,No,No,No,0,49.74,1340.7,No,19.56,No,No,Low Risk
+CUST102193,Male,0,No,No,25,One year,DSL,Bank transfer (automatic),Yes,Yes,No,No,0,42.65,1082.24,No,1.45,No,No,Low Risk
+CUST102798,Male,0,Yes,No,44,Month-to-month,Fiber optic,Mailed check,No,Yes,No,Yes,1,72.54,3189.88,No,19.06,No,No,Low Risk
+CUST100994,Female,0,Yes,No,11,Month-to-month,DSL,Bank transfer (automatic),Yes,Yes,No,No,0,58.68,710.67,No,18.54,No,No,Low Risk
+CUST102502,Male,1,Yes,No,10,Two year,DSL,Mailed check,No,No internet service,No internet service,Yes,1,64.13,667.75,No,17.24,No,No,Low Risk
+CUST103316,Female,0,No,No,11,Month-to-month,No,Electronic check,No,No internet service,No,No,3,20.6,194.71,Yes,79.22,Yes,Yes,High Risk
+CUST102072,Female,0,Yes,No,72,Two year,Fiber optic,Mailed check,No,Yes,Yes,No internet service,3,77.01,5592.66,No,0.63,No,No,Low Risk
+CUST100543,Female,0,No,No,3,Two year,DSL,Electronic check,Yes,Yes,No internet service,No,1,58.09,201.61,No,26.15,No,No,Low Risk
+CUST104011,Male,0,No,No,72,Month-to-month,Fiber optic,Electronic check,Yes,Yes,Yes,No,3,87.44,6298.43,No,25.85,No,No,Low Risk
+CUST102384,Male,0,Yes,No,44,Month-to-month,Fiber optic,Mailed check,No,Yes,Yes,No,1,80.47,3504.51,No,15.61,No,No,Low Risk
+CUST101472,Male,0,Yes,No,17,Month-to-month,Fiber optic,Electronic check,No,Yes,No,No,0,82.33,1412.45,Yes,74.83,Yes,Yes,High Risk
+CUST101116,Male,0,No,Yes,15,One year,DSL,Credit card (automatic),No,No internet service,No,No internet service,2,75.85,1112.18,No,21.85,No,No,Low Risk
+CUST103733,Male,0,No,Yes,15,One year,DSL,Electronic check,No,Yes,Yes,No,3,79.83,1229.82,Yes,45.87,No,Yes,Medium Risk
+CUST103952,Female,0,Yes,Yes,16,Month-to-month,Fiber optic,Electronic check,No,No internet service,No,Yes,2,90.04,1344.17,Yes,92.61,Yes,Yes,High Risk
+CUST102068,Female,0,No,No,27,Month-to-month,DSL,Electronic check,No,No internet service,No internet service,Yes,2,64.26,1687.08,No,78.12,Yes,No,High Risk
+CUST100168,Male,0,No,No,70,Month-to-month,Fiber optic,Credit card (automatic),Yes,No,No,Yes,2,69.21,4817.21,No,7.29,No,No,Low Risk
+CUST104598,Female,0,No,No,27,One year,DSL,Mailed check,No,No,No internet service,No,4,67.51,1853.97,No,36.63,No,No,Medium Risk
+CUST101458,Female,0,No,No,33,Month-to-month,No,Mailed check,No,No internet service,Yes,No internet service,3,35.73,1260.51,No,26.18,No,No,Low Risk
+CUST100682,Male,0,Yes,Yes,29,Two year,No,Bank transfer (automatic),Yes,Yes,Yes,No,2,31.64,809.88,No,0.3,No,No,Low Risk
+CUST101502,Female,0,No,No,8,Month-to-month,Fiber optic,Electronic check,Yes,Yes,No,No internet service,1,89.06,788.55,Yes,92.49,Yes,Yes,High Risk
+CUST101358,Female,0,No,No,50,Month-to-month,DSL,Bank transfer (automatic),Yes,No,No,No,7,40.68,2048.46,Yes,32.77,No,Yes,Medium Risk
+CUST102120,Female,1,Yes,No,14,Month-to-month,DSL,Mailed check,Yes,No,No internet service,No,2,50.71,641.37,No,61.78,Yes,No,High Risk
+CUST103438,Male,0,Yes,Yes,53,Month-to-month,Fiber optic,Credit card (automatic),No,No,No,Yes,0,64.51,3414.59,No,4.85,No,No,Low Risk
+CUST103625,Female,0,No,No,9,Month-to-month,DSL,Bank transfer (automatic),No,No,No,No,0,48.8,454.88,No,35.5,No,No,Medium Risk
+CUST104966,Male,0,Yes,No,53,Two year,Fiber optic,Electronic check,Yes,Yes,No,No internet service,2,103.23,5467.83,Yes,10.65,No,Yes,Low Risk
+CUST102466,Female,1,No,No,72,Month-to-month,No,Electronic check,Yes,No,No,Yes,1,18.82,1293.01,No,4.65,No,No,Low Risk
+CUST103581,Male,1,Yes,Yes,9,Month-to-month,DSL,Credit card (automatic),No,No,No,No,2,61.61,484.66,Yes,59.4,Yes,Yes,Medium Risk
+CUST102675,Male,0,Yes,No,28,One year,Fiber optic,Electronic check,Yes,Yes,No internet service,No,0,85.75,2392.71,No,21.29,No,No,Low Risk
+CUST100496,Male,0,Yes,No,25,Month-to-month,DSL,Mailed check,Yes,No,No internet service,No internet service,0,63.66,1608.71,No,26.05,No,No,Low Risk
+CUST104721,Male,0,Yes,No,40,Month-to-month,No,Electronic check,No,No internet service,No,No,3,21.38,842.97,No,29.67,No,No,Low Risk
+CUST104400,Female,0,Yes,Yes,12,One year,Fiber optic,Electronic check,No,No,No,Yes,1,94.36,1116.48,No,69.1,Yes,No,High Risk
+CUST102683,Male,1,Yes,No,8,One year,Fiber optic,Electronic check,Yes,Yes,No,Yes,3,88.99,704.19,Yes,83.5,Yes,Yes,High Risk
+CUST104680,Female,0,Yes,No,20,One year,DSL,Bank transfer (automatic),No,No,No,Yes,2,40.48,777.87,No,5.68,No,No,Low Risk
+CUST101591,Male,0,Yes,No,30,Month-to-month,DSL,Bank transfer (automatic),No,No,No,Yes,2,46.61,1355.3,No,17.28,No,No,Low Risk
+CUST100837,Male,0,No,No,67,Month-to-month,DSL,Mailed check,Yes,Yes,No,Yes,1,59.05,3893.83,No,3.0,No,No,Low Risk
+CUST100912,Male,0,Yes,Yes,19,Month-to-month,Fiber optic,Electronic check,Yes,Yes,No,No,2,82.35,1492.31,No,79.32,Yes,No,High Risk
+CUST104531,Female,0,Yes,No,28,Month-to-month,DSL,Mailed check,Yes,No,Yes,Yes,2,71.53,1982.07,Yes,35.34,No,Yes,Medium Risk
+CUST100014,Female,0,No,No,25,Month-to-month,DSL,Electronic check,No,No internet service,No,No internet service,1,35.46,853.41,Yes,50.96,Yes,Yes,Medium Risk
+CUST101874,Female,0,Yes,No,7,Month-to-month,DSL,Mailed check,No,No internet service,No,No,2,48.58,325.63,No,63.64,Yes,No,High Risk
+CUST101243,Male,0,Yes,No,58,Month-to-month,DSL,Mailed check,Yes,No internet service,No internet service,No,1,44.11,2612.84,No,3.58,No,No,Low Risk
+CUST102159,Male,0,No,No,65,Month-to-month,Fiber optic,Credit card (automatic),No,No,No,Yes,2,74.1,4832.69,No,12.85,No,No,Low Risk
+CUST103676,Female,0,No,No,43,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No,No,Yes,0,94.24,3978.17,Yes,29.49,No,Yes,Low Risk
+CUST102212,Female,0,Yes,No,25,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No,Yes,No internet service,0,65.3,1632.12,Yes,16.06,No,Yes,Low Risk
+CUST100804,Female,0,Yes,No,40,Month-to-month,Fiber optic,Credit card (automatic),No,Yes,Yes,Yes,3,58.41,2281.34,No,12.68,No,No,Low Risk
+CUST104683,Female,0,Yes,No,38,Month-to-month,DSL,Credit card (automatic),Yes,No internet service,No,No internet service,3,30.07,1183.82,No,9.18,No,No,Low Risk
+CUST101288,Female,0,Yes,No,16,Month-to-month,DSL,Mailed check,Yes,Yes,No,No,2,56.64,859.21,Yes,39.48,No,Yes,Medium Risk
+CUST101063,Male,0,No,No,46,Month-to-month,Fiber optic,Electronic check,Yes,Yes,No,No internet service,1,83.65,3752.74,Yes,50.99,Yes,Yes,Medium Risk
+CUST100582,Female,0,Yes,No,9,Two year,Fiber optic,Electronic check,No,Yes,Yes,No,2,79.68,734.73,No,35.04,No,No,Medium Risk
+CUST104906,Male,0,Yes,Yes,15,Month-to-month,No,Electronic check,Yes,No internet service,No,Yes,1,26.66,406.32,No,41.19,No,No,Medium Risk
+CUST103842,Male,0,Yes,No,11,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,Yes,3,89.45,1036.32,Yes,94.11,Yes,Yes,High Risk
+CUST102400,Male,0,Yes,Yes,24,Month-to-month,Fiber optic,Bank transfer (automatic),No,No internet service,No,Yes,2,85.19,2062.54,No,55.25,Yes,No,Medium Risk
+CUST104487,Female,0,Yes,Yes,11,Two year,No,Credit card (automatic),Yes,No,No internet service,Yes,3,18.0,195.55,No,2.65,No,No,Low Risk
+CUST102364,Female,0,No,No,12,Month-to-month,Fiber optic,Credit card (automatic),No,No,No internet service,No,1,74.43,923.57,No,70.82,Yes,No,High Risk
+CUST102579,Female,0,No,No,28,Month-to-month,Fiber optic,Electronic check,No,Yes,No,No internet service,2,80.42,2151.37,Yes,83.23,Yes,Yes,High Risk
+CUST104511,Female,0,Yes,No,12,Month-to-month,DSL,Electronic check,No,No,No,No internet service,1,66.34,826.69,Yes,81.02,Yes,Yes,High Risk
+CUST102371,Female,0,No,No,30,Month-to-month,DSL,Electronic check,No,No,No internet service,No,2,62.52,1842.91,Yes,73.62,Yes,Yes,High Risk
+CUST103376,Female,1,Yes,Yes,37,One year,Fiber optic,Bank transfer (automatic),No,Yes,Yes,No internet service,2,62.83,2393.42,No,2.76,No,No,Low Risk
+CUST103334,Male,0,No,No,25,One year,DSL,Electronic check,Yes,Yes,Yes,No,2,69.11,1718.53,Yes,19.72,No,Yes,Low Risk
+CUST104441,Male,1,Yes,Yes,72,Month-to-month,No,Credit card (automatic),Yes,No internet service,Yes,Yes,2,37.43,2614.38,No,0.83,No,No,Low Risk
+CUST101317,Female,0,Yes,No,12,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No,No,No internet service,1,80.97,938.37,Yes,62.83,Yes,Yes,High Risk
+CUST102504,Female,1,Yes,Yes,72,Month-to-month,DSL,Bank transfer (automatic),Yes,Yes,No,No internet service,0,51.68,3654.68,No,0.53,No,No,Low Risk
+CUST104712,Female,0,No,No,39,Month-to-month,DSL,Mailed check,Yes,No internet service,No,No,1,59.39,2382.35,Yes,23.27,No,Yes,Low Risk
+CUST101395,Female,0,Yes,No,27,Month-to-month,Fiber optic,Credit card (automatic),No,No,Yes,Yes,1,76.77,2071.26,No,31.04,No,No,Medium Risk
+CUST102880,Female,0,No,No,11,One year,DSL,Electronic check,Yes,No internet service,Yes,Yes,1,59.27,643.3,Yes,33.53,No,Yes,Medium Risk
+CUST101684,Male,0,No,No,1,One year,DSL,Bank transfer (automatic),Yes,No,Yes,No internet service,1,75.99,132.45,No,22.19,No,No,Low Risk
+CUST101274,Male,0,No,No,11,One year,DSL,Credit card (automatic),Yes,Yes,No internet service,No,1,43.44,486.91,No,5.16,No,No,Low Risk
+CUST101125,Female,0,No,No,33,Month-to-month,Fiber optic,Mailed check,No,Yes,No internet service,No,1,89.1,2957.6,Yes,54.46,Yes,Yes,Medium Risk
+CUST103054,Male,0,No,No,19,Month-to-month,No,Mailed check,Yes,No,No,No,1,24.92,467.72,No,26.04,No,No,Low Risk
+CUST100666,Female,1,Yes,No,10,Two year,Fiber optic,Bank transfer (automatic),No,No,No,Yes,3,56.96,565.17,No,23.76,No,No,Low Risk
+CUST100275,Female,0,Yes,No,44,Two year,DSL,Bank transfer (automatic),Yes,No internet service,No,No,1,50.73,2241.72,No,0.53,No,No,Low Risk
+CUST101070,Male,0,Yes,Yes,12,Month-to-month,DSL,Electronic check,No,Yes,No,No internet service,2,48.41,575.34,No,60.26,Yes,No,High Risk
+CUST100970,Female,0,Yes,Yes,11,One year,DSL,Electronic check,Yes,No,No,No,1,38.91,447.91,No,18.3,No,No,Low Risk
+CUST104305,Female,0,Yes,No,12,Month-to-month,Fiber optic,Credit card (automatic),Yes,No,No,No,1,73.98,976.86,Yes,58.3,Yes,Yes,Medium Risk
+CUST104509,Female,0,No,No,12,Month-to-month,Fiber optic,Mailed check,Yes,Yes,No,Yes,1,85.73,1158.98,Yes,76.14,Yes,Yes,High Risk
+CUST102682,Female,0,Yes,No,3,One year,No,Credit card (automatic),No,Yes,No,No,3,32.65,65.8,No,11.67,No,No,Low Risk
+CUST101958,Male,0,No,No,41,One year,No,Mailed check,Yes,No,No,No,1,21.54,848.79,No,1.45,No,No,Low Risk
+CUST103567,Male,0,Yes,Yes,27,Two year,DSL,Bank transfer (automatic),Yes,No,No,No,0,57.71,1520.18,No,0.9,No,No,Low Risk
+CUST103166,Female,0,Yes,No,6,One year,Fiber optic,Bank transfer (automatic),Yes,Yes,No,No,2,99.99,533.8,Yes,41.14,No,Yes,Medium Risk
+CUST102244,Female,0,Yes,Yes,7,Two year,Fiber optic,Electronic check,Yes,No internet service,No,Yes,1,89.49,630.6,Yes,50.98,Yes,Yes,Medium Risk
+CUST104664,Male,0,Yes,No,72,Month-to-month,No,Electronic check,Yes,No,No,No,0,21.04,1519.68,No,1.45,No,No,Low Risk
+CUST103804,Female,0,Yes,No,49,Month-to-month,DSL,Electronic check,Yes,Yes,No,No,0,46.19,2269.36,No,7.25,No,No,Low Risk
+CUST101715,Female,0,Yes,Yes,16,Month-to-month,DSL,Bank transfer (automatic),Yes,No internet service,No,No,0,41.54,599.4,Yes,11.24,No,Yes,Low Risk
+CUST104876,Female,0,Yes,No,19,Month-to-month,DSL,Bank transfer (automatic),Yes,No,Yes,Yes,1,45.37,818.6,No,12.5,No,No,Low Risk
+CUST100707,Female,0,Yes,No,72,Month-to-month,DSL,Electronic check,No,No,Yes,No,1,66.17,4800.6,No,6.65,No,No,Low Risk
+CUST102967,Male,1,Yes,No,43,Month-to-month,Fiber optic,Electronic check,No,No,No internet service,Yes,0,68.51,3062.96,Yes,52.09,Yes,Yes,Medium Risk
+CUST101857,Male,0,Yes,No,8,One year,Fiber optic,Electronic check,No,No internet service,No,Yes,0,83.64,720.17,Yes,62.62,Yes,Yes,High Risk
+CUST102727,Male,1,No,No,53,One year,DSL,Bank transfer (automatic),Yes,No internet service,No,Yes,0,65.83,3473.26,No,1.56,No,No,Low Risk
+CUST103388,Male,0,No,No,22,One year,DSL,Mailed check,No,Yes,No,No,0,36.96,756.36,No,3.1,No,No,Low Risk
+CUST104772,Female,0,No,No,2,One year,DSL,Mailed check,No,No internet service,No internet service,No,0,51.5,4.3,No,23.72,No,No,Low Risk
+CUST101607,Male,0,No,Yes,9,Month-to-month,No,Credit card (automatic),No,No,No,Yes,2,18.48,112.7,Yes,28.34,No,Yes,Low Risk
+CUST100913,Female,0,Yes,Yes,20,Month-to-month,DSL,Mailed check,Yes,Yes,No,Yes,1,59.03,1196.74,No,22.39,No,No,Low Risk
+CUST101199,Male,0,No,Yes,25,Month-to-month,No,Bank transfer (automatic),Yes,No,Yes,Yes,1,31.86,753.62,No,7.13,No,No,Low Risk
+CUST104981,Male,0,No,No,22,Two year,Fiber optic,Credit card (automatic),Yes,No,No,Yes,0,68.95,1506.92,No,5.06,No,No,Low Risk
+CUST101434,Female,0,No,No,15,Two year,DSL,Mailed check,Yes,No internet service,Yes,No,2,54.77,855.03,No,7.99,No,No,Low Risk
+CUST102524,Male,1,No,Yes,4,Two year,DSL,Electronic check,Yes,Yes,No,Yes,1,44.05,135.16,No,19.55,No,No,Low Risk
+CUST100291,Male,1,Yes,Yes,3,One year,No,Bank transfer (automatic),No,No internet service,No internet service,No,1,18.0,0.0,No,6.57,No,No,Low Risk
+CUST104840,Female,1,No,No,25,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,No,3,60.47,1502.29,No,86.44,Yes,No,High Risk
+CUST101188,Male,0,Yes,Yes,56,One year,DSL,Electronic check,Yes,Yes,No,Yes,1,52.8,3014.15,No,1.27,No,No,Low Risk
+CUST100050,Male,0,No,No,24,Month-to-month,No,Bank transfer (automatic),Yes,Yes,No,No,1,21.56,527.02,No,6.72,No,No,Low Risk
+CUST104165,Male,0,Yes,Yes,42,One year,DSL,Bank transfer (automatic),Yes,Yes,No,No,1,55.67,2336.8,No,0.63,No,No,Low Risk
+CUST103943,Female,0,Yes,No,16,One year,Fiber optic,Bank transfer (automatic),No,Yes,Yes,Yes,3,73.48,1160.36,No,15.12,No,No,Low Risk
+CUST103654,Female,0,No,No,14,One year,DSL,Electronic check,No,No,No,Yes,1,75.12,1113.66,Yes,57.6,Yes,Yes,Medium Risk
+CUST101402,Male,1,No,No,21,One year,Fiber optic,Mailed check,Yes,No,No,No,2,70.69,1502.66,No,43.9,No,No,Medium Risk
+CUST104012,Female,1,No,No,10,Month-to-month,DSL,Bank transfer (automatic),No,No internet service,Yes,Yes,0,44.6,383.82,No,30.01,No,No,Medium Risk
+CUST101459,Male,0,No,No,39,Month-to-month,Fiber optic,Mailed check,Yes,No,Yes,Yes,2,44.54,1706.06,No,19.46,No,No,Low Risk
+CUST104416,Male,0,No,No,14,Month-to-month,Fiber optic,Mailed check,Yes,No,Yes,No,2,79.04,1167.5,Yes,77.02,Yes,Yes,High Risk
+CUST103961,Female,0,Yes,No,31,Month-to-month,No,Bank transfer (automatic),Yes,Yes,No,No,1,46.58,1410.63,No,7.11,No,No,Low Risk
+CUST100360,Female,1,Yes,No,48,Month-to-month,Fiber optic,Mailed check,Yes,Yes,Yes,No internet service,2,74.08,3557.29,Yes,19.6,No,Yes,Low Risk
+CUST102422,Male,0,No,No,14,One year,Fiber optic,Electronic check,No,Yes,Yes,No,3,90.59,1225.27,Yes,71.38,Yes,Yes,High Risk
+CUST100611,Female,0,Yes,No,24,One year,DSL,Electronic check,Yes,Yes,No,No,1,57.13,1439.17,Yes,12.26,No,Yes,Low Risk
+CUST103598,Female,0,No,No,34,Month-to-month,Fiber optic,Mailed check,Yes,No,Yes,No,0,71.86,2454.58,Yes,27.54,No,Yes,Low Risk
+CUST103510,Female,0,No,Yes,3,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes,No,No,3,75.14,236.85,No,80.32,Yes,No,High Risk
+CUST103699,Male,0,No,No,12,Two year,No,Mailed check,Yes,No,No,Yes,3,40.9,550.93,No,15.06,No,No,Low Risk
+CUST102951,Male,0,No,Yes,12,Month-to-month,Fiber optic,Mailed check,Yes,No,Yes,No internet service,0,80.98,996.65,Yes,58.01,Yes,Yes,Medium Risk
+CUST100485,Female,1,No,No,70,One year,DSL,Electronic check,Yes,No,No,No internet service,1,44.89,3128.4,No,2.16,No,No,Low Risk
+CUST104326,Male,0,Yes,No,21,Month-to-month,Fiber optic,Mailed check,Yes,Yes,Yes,Yes,0,57.2,1207.85,No,16.34,No,No,Low Risk
+CUST101012,Female,1,No,No,55,One year,Fiber optic,Electronic check,Yes,No,Yes,No internet service,1,82.22,4528.02,Yes,15.37,No,Yes,Low Risk
+CUST101015,Female,1,Yes,No,3,Month-to-month,DSL,Bank transfer (automatic),Yes,Yes,No,No,2,71.27,262.15,Yes,65.42,Yes,Yes,High Risk
+CUST104115,Male,0,No,No,40,One year,DSL,Electronic check,No,Yes,No,No,3,29.48,1116.88,Yes,7.08,No,Yes,Low Risk
+CUST103877,Male,0,Yes,No,24,Month-to-month,No,Electronic check,No,No,No,No internet service,1,30.34,757.7,No,40.71,No,No,Medium Risk
+CUST101218,Male,0,No,No,26,Month-to-month,No,Credit card (automatic),No,Yes,No,No internet service,1,18.0,522.47,No,6.41,No,No,Low Risk
+CUST102100,Male,0,Yes,Yes,29,Month-to-month,No,Bank transfer (automatic),No,No,No,No,1,22.44,609.94,No,5.42,No,No,Low Risk
+CUST101371,Male,0,Yes,No,10,One year,Fiber optic,Mailed check,Yes,Yes,No internet service,Yes,1,72.38,824.9,No,21.72,No,No,Low Risk
+CUST100572,Male,0,No,Yes,36,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,No,No,0,78.68,2803.93,No,24.15,No,No,Low Risk
+CUST104682,Male,0,No,No,68,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes,Yes,Yes,2,85.61,5920.78,No,5.98,No,No,Low Risk
+CUST103086,Female,0,Yes,Yes,23,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No internet service,No,Yes,0,78.11,1748.08,No,29.42,No,No,Low Risk
+CUST101058,Female,0,No,Yes,36,Month-to-month,No,Mailed check,Yes,No,No,No,1,32.54,1135.51,Yes,11.31,No,Yes,Low Risk
+CUST104908,Female,0,No,Yes,36,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,No,0,69.19,2513.86,No,6.87,No,No,Low Risk
+CUST102835,Male,1,No,No,17,Two year,DSL,Credit card (automatic),No,No,No internet service,Yes,1,81.8,1417.13,No,16.39,No,No,Low Risk
+CUST100675,Male,0,Yes,No,33,Month-to-month,Fiber optic,Electronic check,Yes,No,No internet service,Yes,3,65.4,2126.73,Yes,76.4,Yes,Yes,High Risk
+CUST103145,Female,0,Yes,No,8,One year,Fiber optic,Credit card (automatic),No,No,Yes,Yes,2,79.68,631.77,No,29.34,No,No,Low Risk
+CUST103280,Female,0,No,Yes,59,Two year,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,Yes,4,83.81,4916.45,No,1.32,No,No,Low Risk
+CUST104824,Male,0,Yes,No,31,One year,No,Credit card (automatic),Yes,No internet service,No internet service,No internet service,1,24.63,875.61,No,1.13,No,No,Low Risk
+CUST103610,Male,1,No,No,26,Month-to-month,Fiber optic,Electronic check,Yes,Yes,Yes,Yes,1,79.16,1925.4,No,73.49,Yes,No,High Risk
+CUST102295,Female,0,No,No,33,One year,DSL,Electronic check,Yes,No,Yes,Yes,0,77.42,2442.81,No,14.06,No,No,Low Risk
+CUST103624,Female,0,Yes,No,29,One year,No,Electronic check,No,No internet service,No,No,1,27.47,870.43,No,8.1,No,No,Low Risk
+CUST102911,Male,0,No,No,34,Month-to-month,DSL,Mailed check,No,No,No,No,3,59.64,1944.3,Yes,50.47,Yes,Yes,Medium Risk
+CUST103806,Female,0,No,Yes,58,Two year,DSL,Electronic check,No,No,No,No,3,48.72,2832.76,No,3.11,No,No,Low Risk
+CUST100216,Female,0,Yes,Yes,19,Month-to-month,Fiber optic,Credit card (automatic),Yes,No,Yes,No internet service,1,64.58,1176.7,No,23.93,No,No,Low Risk
+CUST100127,Male,0,Yes,No,15,Month-to-month,DSL,Bank transfer (automatic),Yes,No internet service,Yes,No,2,57.49,815.1,No,27.51,No,No,Low Risk
+CUST101806,Female,0,Yes,Yes,61,One year,No,Electronic check,No,No,Yes,Yes,3,18.44,1054.02,No,0.92,No,No,Low Risk
+CUST102609,Female,1,Yes,Yes,17,Month-to-month,DSL,Bank transfer (automatic),Yes,No internet service,No,No,1,55.62,1045.26,No,30.47,No,No,Medium Risk
+CUST104291,Female,0,Yes,Yes,37,Month-to-month,DSL,Bank transfer (automatic),Yes,No internet service,Yes,No,2,65.24,2442.45,No,9.54,No,No,Low Risk
+CUST100575,Female,1,Yes,No,46,One year,No,Credit card (automatic),Yes,Yes,No,No internet service,2,18.32,863.51,No,0.51,No,No,Low Risk
+CUST100580,Female,0,Yes,Yes,58,Month-to-month,Fiber optic,Electronic check,Yes,No,No internet service,No internet service,2,73.32,4245.0,No,33.73,No,No,Medium Risk
+CUST103620,Female,0,No,No,38,Month-to-month,DSL,Electronic check,Yes,No internet service,No,No,2,69.77,2704.91,No,65.35,Yes,No,High Risk
+CUST100773,Female,0,No,No,14,One year,Fiber optic,Electronic check,Yes,Yes,No internet service,Yes,2,72.8,1053.63,No,58.44,Yes,No,Medium Risk
+CUST102399,Female,1,Yes,No,72,Two year,DSL,Credit card (automatic),No,Yes,No,No internet service,3,51.61,3797.09,No,0.24,No,No,Low Risk
+CUST102646,Female,0,No,No,33,Month-to-month,Fiber optic,Credit card (automatic),No,No internet service,No,No internet service,2,72.64,2465.41,No,49.53,No,No,Medium Risk
+CUST104843,Female,0,No,Yes,10,Month-to-month,DSL,Bank transfer (automatic),No,No internet service,Yes,Yes,2,68.02,810.6,Yes,50.29,Yes,Yes,Medium Risk
+CUST104490,Male,1,Yes,Yes,6,Month-to-month,Fiber optic,Electronic check,Yes,No,No,No,1,82.59,432.43,Yes,93.7,Yes,Yes,High Risk
+CUST103613,Male,0,Yes,No,8,Month-to-month,No,Credit card (automatic),Yes,No,No,Yes,2,18.0,159.9,No,24.02,No,No,Low Risk
+CUST104426,Male,0,Yes,Yes,23,Month-to-month,No,Electronic check,Yes,No,No,No,2,33.53,783.73,Yes,44.16,No,Yes,Medium Risk
+CUST104880,Male,0,Yes,No,34,Two year,Fiber optic,Electronic check,Yes,Yes,No,No internet service,1,63.77,2181.25,No,6.09,No,No,Low Risk
+CUST101272,Male,0,No,No,35,One year,Fiber optic,Electronic check,No,Yes,No,No,7,67.27,2328.43,Yes,73.19,Yes,Yes,High Risk
+CUST103797,Female,0,Yes,No,13,Month-to-month,Fiber optic,Credit card (automatic),Yes,Yes,No internet service,Yes,1,85.8,1063.07,Yes,52.94,Yes,Yes,Medium Risk
+CUST104873,Female,0,Yes,No,10,Month-to-month,Fiber optic,Mailed check,Yes,Yes,Yes,Yes,0,58.37,696.81,No,29.34,No,No,Low Risk
+CUST101900,Female,0,No,Yes,22,Month-to-month,Fiber optic,Mailed check,No,Yes,Yes,No internet service,1,71.36,1629.29,No,37.39,No,No,Medium Risk
+CUST103862,Male,0,No,No,21,Month-to-month,Fiber optic,Credit card (automatic),Yes,No,Yes,Yes,2,68.3,1436.17,No,46.4,No,No,Medium Risk
+CUST100006,Male,1,Yes,No,26,Two year,No,Electronic check,No,No,No internet service,No internet service,1,24.13,688.34,No,6.24,No,No,Low Risk
+CUST102926,Female,1,Yes,No,46,One year,No,Electronic check,Yes,No,No,No internet service,1,31.83,1375.74,No,4.48,No,No,Low Risk
+CUST100134,Male,0,No,No,23,Month-to-month,DSL,Credit card (automatic),No,Yes,Yes,Yes,0,67.15,1540.47,No,13.05,No,No,Low Risk
+CUST103130,Female,0,No,No,34,Month-to-month,No,Mailed check,No,No,Yes,Yes,1,32.63,1087.8,No,11.96,No,No,Low Risk
+CUST100283,Male,0,Yes,Yes,20,Month-to-month,Fiber optic,Mailed check,Yes,No internet service,No,Yes,2,68.47,1374.55,No,59.1,Yes,No,Medium Risk
+CUST104044,Male,0,Yes,No,36,Month-to-month,DSL,Mailed check,Yes,No,No internet service,Yes,2,49.7,1879.33,No,20.51,No,No,Low Risk
+CUST101723,Female,0,Yes,No,21,One year,No,Electronic check,No,No,Yes,Yes,2,26.78,566.53,Yes,11.42,No,Yes,Low Risk
+CUST102004,Female,0,Yes,Yes,6,Two year,DSL,Credit card (automatic),Yes,No internet service,No internet service,No,3,38.24,159.7,No,5.85,No,No,Low Risk
+CUST100177,Male,0,No,No,34,Month-to-month,DSL,Electronic check,No,No internet service,Yes,No,0,45.9,1597.17,No,24.8,No,No,Low Risk
+CUST102149,Male,0,Yes,No,51,Two year,No,Electronic check,No,Yes,No,No,1,28.12,1392.92,No,0.6,No,No,Low Risk
+CUST100249,Male,0,No,No,32,Month-to-month,DSL,Bank transfer (automatic),Yes,Yes,No,Yes,0,45.37,1434.2,No,5.48,No,No,Low Risk
+CUST103299,Male,0,Yes,Yes,50,Month-to-month,No,Credit card (automatic),Yes,No internet service,No,Yes,0,21.52,1057.31,No,0.89,No,No,Low Risk
+CUST100926,Male,0,Yes,No,30,Month-to-month,DSL,Mailed check,Yes,Yes,Yes,Yes,0,55.3,1540.52,No,6.57,No,No,Low Risk
+CUST100175,Female,0,No,No,61,Month-to-month,Fiber optic,Mailed check,Yes,Yes,No,No,1,88.2,5292.75,Yes,15.98,No,Yes,Low Risk
+CUST101216,Female,0,No,No,58,Month-to-month,Fiber optic,Mailed check,No,No internet service,No,No,4,81.73,4778.16,No,55.0,Yes,No,Medium Risk
+CUST101321,Male,0,No,Yes,72,Two year,No,Electronic check,Yes,No,No internet service,Yes,2,18.72,1409.4,No,0.3,No,No,Low Risk
+CUST104191,Male,0,No,No,15,One year,DSL,Electronic check,No,Yes,No,No,0,65.31,1050.91,No,25.54,No,No,Low Risk
+CUST101220,Male,0,Yes,No,23,Two year,DSL,Electronic check,No,No,Yes,Yes,2,49.22,1084.46,No,8.68,No,No,Low Risk
+CUST101159,Female,1,No,Yes,14,Two year,DSL,Credit card (automatic),Yes,Yes,No,Yes,1,58.93,877.72,No,4.28,No,No,Low Risk
+CUST104796,Female,0,No,No,62,Month-to-month,Fiber optic,Mailed check,Yes,No internet service,No internet service,No internet service,2,64.53,3930.1,No,16.87,No,No,Low Risk
+CUST101931,Female,0,Yes,No,22,One year,No,Credit card (automatic),Yes,No internet service,No,No internet service,0,29.78,689.83,No,1.63,No,No,Low Risk
+CUST100805,Female,0,Yes,No,41,Month-to-month,DSL,Electronic check,Yes,No,Yes,Yes,2,60.44,2592.22,No,32.65,No,No,Medium Risk
+CUST104705,Male,0,Yes,No,10,Two year,Fiber optic,Electronic check,No,Yes,No internet service,Yes,0,98.32,939.25,No,39.59,No,No,Medium Risk
+CUST101401,Male,0,No,No,71,One year,DSL,Mailed check,Yes,Yes,Yes,No,3,50.61,3546.15,No,0.44,No,No,Low Risk
+CUST104335,Male,0,Yes,Yes,36,Two year,DSL,Electronic check,Yes,No internet service,Yes,Yes,1,45.21,1684.58,No,1.64,No,No,Low Risk
+CUST103193,Male,0,Yes,Yes,15,Month-to-month,Fiber optic,Electronic check,Yes,No internet service,Yes,No internet service,2,73.96,1063.19,Yes,79.5,Yes,Yes,High Risk
+CUST100039,Male,0,Yes,Yes,16,Month-to-month,Fiber optic,Mailed check,No,No,No,No,1,81.48,1250.41,Yes,68.44,Yes,Yes,High Risk
+CUST103257,Female,0,No,Yes,22,One year,Fiber optic,Mailed check,Yes,No,No,No,2,58.06,1285.42,No,20.22,No,No,Low Risk
+CUST103821,Female,0,No,No,17,Two year,DSL,Mailed check,Yes,Yes,No,No,0,49.6,779.85,No,2.71,No,No,Low Risk
+CUST102007,Male,0,No,No,38,Two year,DSL,Bank transfer (automatic),No,No internet service,No,Yes,1,68.89,2648.61,No,2.26,No,No,Low Risk
+CUST104741,Female,1,Yes,No,7,Month-to-month,Fiber optic,Credit card (automatic),No,Yes,No internet service,No,1,79.0,541.81,Yes,69.89,Yes,Yes,High Risk
+CUST104865,Male,0,Yes,No,6,Two year,DSL,Mailed check,No,No internet service,No,No internet service,4,79.01,380.19,Yes,47.33,No,Yes,Medium Risk
+CUST101137,Female,0,Yes,No,24,Month-to-month,DSL,Credit card (automatic),Yes,No,Yes,No internet service,2,80.95,1952.88,Yes,34.03,No,Yes,Medium Risk
+CUST102375,Female,0,Yes,No,8,Two year,Fiber optic,Credit card (automatic),No,No,No,Yes,1,71.85,581.51,No,14.47,No,No,Low Risk
+CUST100081,Female,1,Yes,No,30,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,Yes,4,81.22,2402.76,Yes,51.93,Yes,Yes,Medium Risk
+CUST104152,Male,0,Yes,No,33,One year,No,Credit card (automatic),No,Yes,No internet service,No,2,27.84,917.33,No,1.13,No,No,Low Risk
+CUST100550,Male,0,Yes,No,11,One year,Fiber optic,Bank transfer (automatic),No,No,Yes,Yes,1,72.51,787.42,Yes,14.61,No,Yes,Low Risk
+CUST101077,Male,0,Yes,No,12,Two year,No,Electronic check,Yes,No,No internet service,Yes,2,24.21,270.78,No,11.6,No,No,Low Risk
+CUST103530,Female,0,Yes,No,19,Month-to-month,Fiber optic,Credit card (automatic),No,Yes,Yes,Yes,3,60.37,1090.87,Yes,35.4,No,Yes,Medium Risk
+CUST100186,Female,0,No,No,28,One year,DSL,Bank transfer (automatic),No,No,Yes,No,0,50.32,1340.78,No,1.98,No,No,Low Risk
+CUST101693,Male,0,No,No,32,Two year,DSL,Electronic check,Yes,No internet service,No internet service,No,4,67.35,2151.41,No,31.32,No,No,Medium Risk
+CUST100191,Male,0,No,No,51,Month-to-month,DSL,Bank transfer (automatic),Yes,No,No internet service,No,0,49.04,2464.6,No,3.4,No,No,Low Risk
+CUST102412,Female,0,Yes,No,44,Month-to-month,DSL,Bank transfer (automatic),No,No,No,Yes,3,37.85,1659.27,No,9.43,No,No,Low Risk
+CUST101583,Female,0,No,Yes,36,One year,Fiber optic,Electronic check,Yes,No internet service,No internet service,No,2,63.15,2284.34,No,26.41,No,No,Low Risk
+CUST103313,Male,0,No,No,36,Month-to-month,Fiber optic,Mailed check,Yes,No,Yes,Yes,0,80.24,2854.65,Yes,29.99,No,Yes,Low Risk
+CUST100026,Female,0,No,Yes,22,One year,No,Bank transfer (automatic),No,No,Yes,No,2,18.94,419.86,No,1.97,No,No,Low Risk
+CUST101366,Male,0,Yes,No,6,Month-to-month,Fiber optic,Mailed check,No,No,No,No,0,87.37,513.4,No,80.54,Yes,No,High Risk
+CUST100852,Male,1,No,No,6,One year,No,Credit card (automatic),Yes,No internet service,Yes,No,0,29.26,155.5,No,5.42,No,No,Low Risk
+CUST104959,Female,0,Yes,No,14,Month-to-month,No,Bank transfer (automatic),Yes,No,No internet service,Yes,1,30.66,422.23,No,18.27,No,No,Low Risk
+CUST101944,Male,0,Yes,No,27,Two year,No,Credit card (automatic),No,Yes,No internet service,No,2,45.07,1207.28,No,1.36,No,No,Low Risk
+CUST104644,Female,1,Yes,No,22,Two year,No,Electronic check,No,Yes,No internet service,No,3,18.0,432.97,No,8.65,No,No,Low Risk
+CUST100091,Female,0,No,No,19,One year,Fiber optic,Bank transfer (automatic),Yes,No,No internet service,Yes,1,81.07,1511.84,No,23.23,No,No,Low Risk
+CUST104496,Male,0,No,No,30,Month-to-month,Fiber optic,Bank transfer (automatic),No,No internet service,No,No,1,96.73,2942.09,No,61.69,Yes,No,High Risk
+CUST101968,Male,1,No,No,2,Month-to-month,No,Bank transfer (automatic),No,No,No,No,5,18.0,0.0,Yes,79.52,Yes,Yes,High Risk
+CUST104647,Male,0,Yes,Yes,58,One year,No,Mailed check,Yes,No,No internet service,No internet service,2,27.72,1584.35,No,0.49,No,No,Low Risk
+CUST104470,Female,0,Yes,Yes,53,Month-to-month,DSL,Mailed check,No,No internet service,No,No internet service,1,65.62,3456.16,No,8.99,No,No,Low Risk
+CUST101040,Male,0,No,No,47,Two year,No,Mailed check,No,No internet service,Yes,No,0,46.98,2194.39,No,0.54,No,No,Low Risk
+CUST101891,Female,0,No,No,53,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No,No,No,1,84.75,4559.59,Yes,20.05,No,Yes,Low Risk
+CUST101633,Male,0,Yes,No,23,Month-to-month,DSL,Electronic check,Yes,Yes,No,No,3,49.22,1135.29,Yes,57.02,Yes,Yes,Medium Risk
+CUST104518,Female,0,Yes,No,49,Two year,DSL,Bank transfer (automatic),No,Yes,No,No,1,84.74,4186.1,No,0.84,No,No,Low Risk
+CUST102248,Female,0,Yes,Yes,12,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes,Yes,Yes,3,65.98,696.07,No,38.81,No,No,Medium Risk
+CUST100816,Male,0,No,Yes,26,Two year,DSL,Credit card (automatic),No,No,Yes,Yes,1,58.51,1505.15,No,1.58,No,No,Low Risk
+CUST102113,Male,0,Yes,No,72,One year,No,Electronic check,Yes,No internet service,No,No,2,20.96,1531.64,No,0.59,No,No,Low Risk
+CUST102302,Male,1,Yes,No,27,One year,Fiber optic,Credit card (automatic),Yes,Yes,No,Yes,1,67.3,1729.12,No,6.73,No,No,Low Risk
+CUST100922,Male,0,Yes,No,53,Month-to-month,No,Credit card (automatic),No,No,Yes,Yes,1,31.52,1710.4,No,1.44,No,No,Low Risk
+CUST100151,Male,0,Yes,Yes,7,One year,Fiber optic,Credit card (automatic),Yes,No,No internet service,Yes,2,70.56,498.16,Yes,25.24,No,Yes,Low Risk
+CUST104653,Male,1,No,No,2,Month-to-month,No,Bank transfer (automatic),Yes,No,Yes,No internet service,1,32.34,174.27,Yes,39.23,No,Yes,Medium Risk
+CUST104519,Female,0,Yes,No,6,Month-to-month,Fiber optic,Electronic check,No,Yes,No,No internet service,1,85.9,494.88,Yes,90.89,Yes,Yes,High Risk
+CUST104050,Female,0,Yes,Yes,55,Month-to-month,No,Credit card (automatic),Yes,Yes,Yes,No internet service,2,38.7,2067.38,No,0.96,No,No,Low Risk
+CUST101128,Female,0,Yes,No,16,Month-to-month,No,Electronic check,Yes,No,No internet service,No,2,18.0,237.08,Yes,50.08,Yes,Yes,Medium Risk
+CUST101483,Male,0,No,Yes,23,One year,Fiber optic,Electronic check,No,No,No internet service,No internet service,0,84.33,1981.9,No,44.01,No,No,Medium Risk
+CUST104360,Female,0,No,No,23,Two year,Fiber optic,Mailed check,No,No,No internet service,No,2,50.92,1248.71,No,12.09,No,No,Low Risk
+CUST101543,Male,0,Yes,Yes,72,Month-to-month,Fiber optic,Electronic check,No,No,Yes,Yes,3,74.98,5351.57,No,19.32,No,No,Low Risk
+CUST103872,Male,1,No,No,19,Two year,Fiber optic,Electronic check,Yes,No,Yes,Yes,0,67.64,1293.11,No,22.49,No,No,Low Risk
+CUST103568,Female,0,No,Yes,47,One year,DSL,Electronic check,No,No internet service,No,No internet service,2,41.88,1978.81,No,6.55,No,No,Low Risk
+CUST104569,Male,0,Yes,No,10,Month-to-month,Fiber optic,Mailed check,No,No,Yes,No,1,86.99,921.98,Yes,74.62,Yes,Yes,High Risk
+CUST103293,Male,1,Yes,No,28,One year,No,Credit card (automatic),Yes,No,No,Yes,1,54.27,1514.61,No,5.4,No,No,Low Risk
+CUST104207,Female,0,No,No,4,Two year,No,Credit card (automatic),No,No,No,No internet service,3,21.47,113.84,No,9.45,No,No,Low Risk
+CUST102114,Male,0,No,No,41,Two year,No,Mailed check,Yes,No internet service,No,Yes,2,29.06,1215.24,No,1.34,No,No,Low Risk
+CUST103587,Female,0,No,No,7,One year,No,Credit card (automatic),Yes,No,Yes,Yes,1,21.53,126.19,No,4.12,No,No,Low Risk
+CUST103473,Female,1,No,No,43,Month-to-month,Fiber optic,Credit card (automatic),No,No,No,No internet service,0,94.64,4082.76,Yes,44.06,No,Yes,Medium Risk
+CUST101442,Female,0,No,Yes,23,Month-to-month,No,Electronic check,No,Yes,Yes,No internet service,1,18.4,487.3,No,17.1,No,No,Low Risk
+CUST102257,Female,0,No,No,1,Month-to-month,Fiber optic,Electronic check,Yes,No,No,No,1,100.06,62.11,Yes,97.83,Yes,Yes,High Risk
+CUST104565,Female,0,Yes,No,16,Month-to-month,DSL,Electronic check,Yes,No,Yes,No internet service,2,56.46,908.05,Yes,65.36,Yes,Yes,High Risk
+CUST103953,Male,0,Yes,No,48,Month-to-month,DSL,Electronic check,Yes,No,No internet service,Yes,4,32.38,1468.07,Yes,29.8,No,Yes,Low Risk
+CUST100380,Female,0,Yes,No,28,Month-to-month,DSL,Electronic check,Yes,No,No,Yes,0,67.86,1888.22,Yes,49.83,No,Yes,Medium Risk
+CUST101704,Male,0,No,No,11,Month-to-month,DSL,Mailed check,Yes,Yes,No,No,1,44.38,477.97,Yes,35.77,No,Yes,Medium Risk
+CUST102934,Male,0,No,No,13,Two year,Fiber optic,Electronic check,Yes,No,Yes,Yes,0,57.39,727.87,No,16.14,No,No,Low Risk
+CUST104588,Female,0,No,No,17,Month-to-month,DSL,Credit card (automatic),No,No,No,No internet service,4,60.23,1030.81,Yes,71.45,Yes,Yes,High Risk
+CUST101653,Male,0,No,Yes,17,Two year,Fiber optic,Mailed check,Yes,No,Yes,No,1,72.85,1264.16,No,9.26,No,No,Low Risk
+CUST102151,Male,0,Yes,No,41,Two year,Fiber optic,Electronic check,No,No,No internet service,No,2,74.18,3012.55,No,15.36,No,No,Low Risk
+CUST103085,Male,0,Yes,Yes,6,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,Yes,0,93.78,611.61,Yes,85.03,Yes,Yes,High Risk
+CUST100702,Male,0,No,No,40,Two year,DSL,Bank transfer (automatic),Yes,Yes,No,No internet service,0,69.23,2657.04,No,0.67,No,No,Low Risk
+CUST104549,Female,0,Yes,Yes,22,Month-to-month,Fiber optic,Credit card (automatic),Yes,Yes,No,No,1,82.55,1835.71,No,31.21,No,No,Medium Risk
+CUST101514,Female,0,Yes,Yes,12,Month-to-month,No,Electronic check,Yes,Yes,No,No internet service,0,24.82,331.85,Yes,24.38,No,Yes,Low Risk
+CUST103698,Female,0,No,No,18,Month-to-month,DSL,Electronic check,No,No,No,No,1,23.44,466.24,No,52.02,Yes,No,Medium Risk
+CUST103065,Female,0,No,Yes,25,Month-to-month,No,Electronic check,No,Yes,No,Yes,2,18.0,486.99,No,30.8,No,No,Medium Risk
+CUST104082,Male,0,No,No,15,Month-to-month,DSL,Credit card (automatic),Yes,No internet service,No internet service,Yes,1,62.21,975.29,No,42.7,No,No,Medium Risk
+CUST100343,Female,1,Yes,Yes,13,Month-to-month,No,Mailed check,Yes,No internet service,No,Yes,1,18.0,220.11,No,25.97,No,No,Low Risk
+CUST103650,Female,0,Yes,No,2,Month-to-month,Fiber optic,Electronic check,No,No,No,Yes,4,88.39,190.6,Yes,98.75,Yes,Yes,High Risk
+CUST102195,Female,1,No,No,45,Two year,DSL,Credit card (automatic),Yes,No,No,No,4,60.08,2655.4,No,5.02,No,No,Low Risk
+CUST101843,Male,0,No,No,13,One year,DSL,Credit card (automatic),Yes,No,No internet service,Yes,1,62.87,790.23,No,13.5,No,No,Low Risk
+CUST100022,Female,0,No,No,24,One year,No,Mailed check,No,Yes,No,Yes,1,18.0,416.84,No,2.64,No,No,Low Risk
+CUST100610,Male,0,No,Yes,29,Month-to-month,No,Bank transfer (automatic),Yes,Yes,No,Yes,2,18.0,527.87,No,5.15,No,No,Low Risk
+CUST102190,Female,0,No,No,7,Month-to-month,DSL,Electronic check,Yes,Yes,No,No,0,70.9,370.65,Yes,76.29,Yes,Yes,High Risk
+CUST103704,Male,0,No,No,34,Two year,Fiber optic,Credit card (automatic),No,No,No,Yes,6,91.59,3207.44,No,41.79,No,No,Medium Risk
+CUST102940,Male,0,No,No,72,Month-to-month,Fiber optic,Electronic check,Yes,Yes,No,Yes,3,71.05,5169.6,No,24.62,No,No,Low Risk
+CUST103751,Male,0,No,No,38,Month-to-month,Fiber optic,Mailed check,Yes,Yes,No,Yes,2,53.87,2004.02,Yes,25.11,No,Yes,Low Risk
+CUST104277,Female,0,No,No,33,Two year,Fiber optic,Electronic check,Yes,No,No,No,2,84.03,2776.76,No,34.72,No,No,Medium Risk
+CUST101085,Male,0,Yes,Yes,65,Month-to-month,No,Bank transfer (automatic),No,No,Yes,Yes,1,45.47,2893.17,No,0.83,No,No,Low Risk
+CUST100346,Male,0,No,No,17,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No,Yes,Yes,1,69.0,1104.57,Yes,42.18,No,Yes,Medium Risk
+CUST101830,Female,0,No,Yes,22,Two year,DSL,Credit card (automatic),Yes,Yes,No,No internet service,0,65.6,1424.24,No,1.45,No,No,Low Risk
+CUST100959,Male,0,Yes,Yes,7,Month-to-month,No,Mailed check,No,No,No,No,2,22.0,210.58,No,38.21,No,No,Medium Risk
+CUST100721,Male,0,Yes,No,8,Month-to-month,DSL,Bank transfer (automatic),Yes,No internet service,No internet service,No,2,79.55,551.95,Yes,65.8,Yes,Yes,High Risk
+CUST100320,Female,1,Yes,Yes,23,Month-to-month,No,Credit card (automatic),No,Yes,No,No,3,22.08,534.09,No,15.15,No,No,Low Risk
+CUST102296,Male,0,No,Yes,43,Month-to-month,Fiber optic,Electronic check,Yes,Yes,Yes,No,4,68.54,2907.69,No,53.68,Yes,No,Medium Risk
+CUST104782,Female,0,Yes,No,59,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes,No,No,1,44.28,2524.02,No,1.69,No,No,Low Risk
+CUST102548,Female,0,No,No,72,Month-to-month,DSL,Credit card (automatic),Yes,No,Yes,Yes,5,52.79,3782.79,No,5.23,No,No,Low Risk
+CUST101971,Male,1,No,No,22,Two year,Fiber optic,Electronic check,No,No,No,No,1,92.01,2015.26,No,60.46,Yes,No,High Risk
+CUST103517,Male,0,No,No,25,Month-to-month,No,Bank transfer (automatic),No,Yes,No,Yes,3,18.0,429.56,No,13.69,No,No,Low Risk
+CUST102370,Female,0,Yes,Yes,25,Month-to-month,Fiber optic,Electronic check,Yes,Yes,No internet service,No,1,78.38,2000.17,No,62.57,Yes,No,High Risk
+CUST102496,Female,0,No,Yes,46,Month-to-month,Fiber optic,Electronic check,No,No,No,Yes,1,99.85,4542.67,Yes,74.71,Yes,Yes,High Risk
+CUST102386,Female,0,No,No,72,Month-to-month,DSL,Electronic check,No,No internet service,No internet service,No internet service,0,76.39,5610.62,No,14.18,No,No,Low Risk
+CUST102551,Male,0,Yes,No,16,One year,DSL,Bank transfer (automatic),No,No,No,No,1,34.02,548.34,No,3.8,No,No,Low Risk
+CUST101534,Male,0,Yes,No,72,One year,Fiber optic,Bank transfer (automatic),Yes,No,No internet service,No,1,74.76,5370.54,No,0.68,No,No,Low Risk
+CUST102618,Male,0,Yes,Yes,15,Month-to-month,Fiber optic,Electronic check,Yes,No,No internet service,Yes,1,87.69,1325.63,Yes,87.09,Yes,Yes,High Risk
+CUST101313,Male,0,Yes,Yes,64,Month-to-month,No,Electronic check,Yes,No,No internet service,No internet service,3,18.0,1187.82,No,5.27,No,No,Low Risk
+CUST103947,Male,0,Yes,No,13,One year,Fiber optic,Mailed check,Yes,No internet service,No,No,2,82.59,1100.28,No,44.94,No,No,Medium Risk
+CUST103717,Female,0,No,No,41,Month-to-month,Fiber optic,Bank transfer (automatic),No,No,No,Yes,2,72.89,2923.64,Yes,37.46,No,Yes,Medium Risk
+CUST104107,Female,0,Yes,No,20,Month-to-month,No,Credit card (automatic),Yes,No,No,No,1,19.54,326.24,No,9.86,No,No,Low Risk
+CUST101730,Female,0,Yes,Yes,26,Two year,DSL,Credit card (automatic),Yes,No internet service,No,Yes,2,51.37,1397.29,No,1.88,No,No,Low Risk
+CUST101465,Female,0,No,No,13,Month-to-month,DSL,Mailed check,Yes,No,No,Yes,0,57.5,772.8,No,47.95,No,No,Medium Risk
+CUST103347,Male,0,No,No,25,Month-to-month,DSL,Credit card (automatic),Yes,Yes,No,Yes,1,59.06,1358.88,No,17.54,No,No,Low Risk
+CUST101839,Male,0,Yes,No,14,Two year,DSL,Bank transfer (automatic),Yes,No,No,No internet service,3,69.63,926.91,Yes,11.25,No,Yes,Low Risk
+CUST104503,Male,0,No,No,10,Month-to-month,Fiber optic,Mailed check,No,Yes,Yes,No internet service,0,60.01,640.06,No,41.37,No,No,Medium Risk
+CUST103370,Female,0,Yes,No,20,Month-to-month,DSL,Electronic check,Yes,No,No,Yes,1,40.47,796.19,Yes,49.48,No,Yes,Medium Risk
+CUST102393,Male,0,No,No,54,One year,Fiber optic,Electronic check,No,Yes,Yes,Yes,4,76.29,4151.31,No,18.13,No,No,Low Risk
+CUST101474,Female,0,Yes,No,41,One year,No,Bank transfer (automatic),Yes,Yes,No,No,0,18.0,812.14,No,0.2,No,No,Low Risk
+CUST104658,Male,0,Yes,No,57,Month-to-month,DSL,Electronic check,Yes,No internet service,No,Yes,2,40.35,2237.75,No,12.62,No,No,Low Risk
+CUST104710,Male,0,No,No,23,Month-to-month,DSL,Credit card (automatic),No,No,Yes,No,1,69.71,1533.76,Yes,29.25,No,Yes,Low Risk
+CUST103186,Male,0,Yes,No,69,Month-to-month,No,Mailed check,No,No,No,No,1,22.34,1517.01,No,1.16,No,No,Low Risk
+CUST103021,Female,0,No,No,32,One year,Fiber optic,Bank transfer (automatic),Yes,No,Yes,No internet service,0,77.64,2505.89,No,4.82,No,No,Low Risk
+CUST103258,Male,0,Yes,Yes,72,One year,Fiber optic,Bank transfer (automatic),No,Yes,No,Yes,1,81.38,5829.37,No,0.45,No,No,Low Risk

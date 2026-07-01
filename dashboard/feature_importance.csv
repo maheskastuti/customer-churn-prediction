@@ -1,0 +1,20 @@
+Feature,Coefficient
+Contract_Two year,-2.4459527245499384
+Contract_One year,-1.7010002497075745
+PaymentMethod_Electronic check,1.6461749309826115
+tenure,-1.1979904726842379
+MonthlyCharges,0.6825870385802189
+PaymentMethod_Mailed check,0.6253489615091165
+TechSupport,-0.5420266972110761
+OnlineSecurity,-0.4974921321234981
+NumSupportCalls,0.4940906039369738
+SeniorCitizen,0.4374415042517267
+InternetService_Fiber optic,0.4109268135211707
+Partner,-0.3812154559399434
+Dependents,-0.2654515180891215
+PaperlessBilling,-0.1584502549508101
+InternetService_No,0.1190787522223602
+TotalCharges,0.06361142403710351
+gender,-0.048557957138539075
+PaymentMethod_Credit card (automatic),0.029267674241452598
+StreamingTV,0.009928127198246517
